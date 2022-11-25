@@ -20,7 +20,7 @@ const Team = () =>{
                                 <div className="team-content">
                                     <span>CEO & FOUNDER</span>
                                     <h3>MARWAN H</h3>
-                                    <p>Random goes here for explanations. Which will help random generate. Random goes here.</p>
+                                    <p>Random goes here for explanations, which will help random generate. Random goes here.</p>
                                     <div className="team-social">
                                         <a href="# "><i className="fa-brands fa-twitter"></i></a>
                                         <a href="# "><i className="fa-brands fa-linkedin-in"></i></a>
@@ -39,7 +39,7 @@ const Team = () =>{
                                 <div className="team-content">
                                     <span>COO</span>
                                     <h3>HAMZA S.</h3>
-                                    <p>Random goes here for explanations. Which will help random generate. Random goes here.</p>
+                                    <p>Random goes here for explanations, which will help random generate. Random goes here.</p>
                                     <div className="team-social">
                                         <a href="# "><i className="fa-brands fa-twitter"></i></a>
                                         <a href="# "><i className="fa-brands fa-linkedin-in"></i></a>

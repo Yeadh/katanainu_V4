@@ -91,7 +91,7 @@ const Actions = () =>{
                             </div>
                             <div className="action-content">
                                     <h3 className="title">Blockchain Economy July 2022 in Istanbul</h3>
-                                    <p>The Katana Inu Team was from 27-29 July in Istanbul at Blockchain Summit.We had a great time and meet a lot of potential partners, exchanges and influencer.</p>
+                                    <p>The Katana Inu Team was in Istanbul from 27-29 July at Blockchain Summit.We had a great time and meet a lot of potential partners, exchanges and influencers.</p>
                             </div>
                         </div>
                         </div>
@@ -101,8 +101,8 @@ const Actions = () =>{
                                 <iframe src={"https://www.youtube.com/embed/d0k7ucNOL7A?iv_load_policy=0&loop=1&playsinline=1&controls=0&mute=0&origin=" + window.location.origin} title="YouTube video player" frameBorder={0} allowFullScreen></iframe>
                             </div>
                             <div className="action-content">
-                                    <h3 className="title">World BlockChain summit March 2022 at Atlatnis Hotel in Dubai</h3>
-                            <p>The Katana Inu Team was on 23-24 March at World Blockchain Summit in Dubai and 16-17 March 2022 Crypto Expo Dubai.We had a great time and meet a lot of potential partnerships and investors.</p>
+                                    <h3 className="title">World BlockChain summit March 2022 at Atlantis Hotel in Dubai</h3>
+                                    <p>The Katana Inu Team was on 23-24 March at World Blockchain Summit in Dubai and 16-17 March 2022 Crypto Expo Dubai.We had a great time and met a lot of potential partnerships and investors.</p>
                             </div>
                         </div>
                         </div>
@@ -113,7 +113,7 @@ const Actions = () =>{
                             </div>
                             <div className="action-content">
                                 <h3 className="title">Gitex - Future of Blockchain Oct 2022</h3>
-                                <p>Katana Inu was at GITEX, the biggest Tech even in the world - There was a Hall only for Blockchain companies "Future of Blockchain" and we had a booth there.</p>
+                                    <p>Katana Inu was at GITEX, the biggest Tech event in the world - There was a Hall only for Blockchain companies "Future of Blockchain" and we had a booth there.</p>
                             </div>
                         </div>
                         </div>
@@ -125,7 +125,7 @@ const Actions = () =>{
                                 <div className="action-content">
                                     <h3 className="title">Tokyo Game Show 2022 | Katana Inu in Japan | Gamers loved our game</h3>
                                     <p>The Katana Inu Team was from 15-18 August in #Tokyo Japan at Tokyo-Game Show. #tokyogameshow2022 #tgs
-                                    We had a great time and the gamers in japan loved our game alot.</p>
+                                    We had a great time and the Japanese gamers fell in love with our game.</p>
                                 </div>
                             </div>
                         </div>

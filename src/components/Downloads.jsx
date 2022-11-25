@@ -11,18 +11,22 @@ const Downloads = () =>{
 
               <div className="col-xl-5 col-lg-9">
                 <div className="download-content">
-                  <h4 className="title">BETA VERSION COMING SOON!</h4>
+                  <h4 className="title">BETA VERSION IS COMING SOON!</h4>
                   <h6 className="desc">Our Beta will be 3 vs 3 player version with more game modes following soon.</h6>
                   <p>You can test and play the demo 1vs1 now</p>
 
 
-                  <h4 className="title">For this Demo you need a key.</h4>
-                  <p>You can only get a key if you are holding NFT or 300K of $kata tokens.</p>
+                  <h4 className="title">For this Demo, you need a key.</h4>
+                  {/* <h4 className="title">Please request a KEY first</h4> */}
+                  <p>Server online everyday from 8-10 pm CET.</p>
                   <h2 className="download-now">Download Now &amp; <span><img src="assets/img/images/text.png" alt="" /></span></h2>
                   <div className="download-btn-wrap">
-                    <a href="# "><img src="assets/img/images/download_btn.png" alt="" /></a>
+                    <a href="# ">
+                      <img src="assets/img/images/download_btn.png" alt="" />
+                      <span>Please request a KEY first</span>
+                    </a>
 
-                    <a href="# " class="btn">Request a key</a>
+                    <a href="https://docs.google.com/forms/d/e/1FAIpQLSeKIiYSpqNiBotOqkYZMUKqKnizt2_Xm1cLFjkyBH_CcpX3hg/viewform" target="_blank" rel="noreferrer" class="btn">Request a key</a>
 
                   </div>
                   <div className="system-req">

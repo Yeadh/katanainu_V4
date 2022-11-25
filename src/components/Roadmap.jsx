@@ -46,7 +46,7 @@ const Roadmap = () => {
                     <li className="active">Several Updates</li>
                     <li className="active">Crypto Expo Dubai</li>
                     <li className="active">2D NFT collections</li>
-                    <li className="active">Charity Aciton</li>
+                    <li className="active">Charity Auction</li>
                     <li className="active">Partnership Co-operation</li>
                     <li className="active">CEX listing</li>
                     </ul>

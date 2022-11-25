@@ -94,9 +94,9 @@ const Ecosystem = () =>{
                                     <div className="nfts-contents">
                                         <h2>Benefits of Genesis NFT Takeru Collection</h2>
                                         <ul className="content-lists">
-                                            <li>- Get most of the 3D Weapons for free. You need to claim here: soon</li>
+                                            <li>- Get most of the in-game weapons for free.You can claim it here: soon</li>
                                             <li>- Stake your NFT and get $Kata rewards or NFTs. Click here: soon</li>
-                                            <li>- Get 50% Battlepass discount, just connect with your wallet.</li>
+                                            <li>- Get a 50% Battlepass discount by connecting with your wallet.</li>
                                             <li>- Tournament Entry Tickets Raffles</li>
                                             <li>- Secret benefits of 10 or more genesis Holders</li>
                                             <li>- Access to closed Beta</li>
@@ -125,13 +125,13 @@ const Ecosystem = () =>{
                                     <div className="slider-nft">
                                         <div className="nft-slider">
                                             <div className="nft-item next">
-                                                <img src="assets/img/nfts/1.png" alt="" />
+                                                <img src="assets/img/nfts/girl.png" alt="" />
                                             </div>
                                             <div className="nft-item prev">
-                                                <img src="assets/img/nfts/2.png" alt="" />
+                                                <img src="assets/img/nfts/girl.png" alt="" />
                                             </div>
                                             <div className="nft-item active">
-                                                <img src="assets/img/nfts/3.png" alt="" />
+                                                <img src="assets/img/nfts/girl.png" alt="" />
                                             </div>
 
                                         </div>

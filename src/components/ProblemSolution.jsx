@@ -22,9 +22,9 @@ const ProblemSolution = () => {
               <div className="col-xl-7 col-lg-7">
                 <div className="s-about-content play_content">
                   <h2 className="pb-30">The Problem</h2>
-                  <p>Katana Inu came into existence because there are too many blockchain games without solid graphics, and the PC gaming space is also largely ignored by P2E developers. Additionally, conventional games don't provide a play-to-earn system for their players.</p>
+                <p>Katana Inu came into existence due to the lack of P2E content in the PC gaming space and the rise of low-resolution blockchain games. Additionally, conventional games don't provide a play-to-earn system for their players.</p>
                     <ul>
-                      <li>More than 1 billion gamers have been playing games for years without earnings from the game. They spend hundreds of dollars buying skins and other in-game items, but they don't have the option to sell them. This is a loss on investment. </li>
+                  <li>More than 1 billion gamers have been playing games for years and earning nothing from their playtime. They spend hundreds of dollars buying skins and other in-game items, but they don't have the option to sell them. This is a loss on investment. </li>
                     </ul>
                     <div className="year_compare text-center">
                       <h2 className="pb-10 mt-30">IF YOU CAN'T SELL YOUR ITEMS/SKINS,</h2>
@@ -42,16 +42,16 @@ const ProblemSolution = () => {
                           <h1>What players Earned?</h1>
                             <div className="box_fix">
                               <h3><span>$0</span></h3>
-                              <p>It all went to giant game companies since players cannot sell their purchased items.</p>
+                        <p>It all went to giant game companies since tthe players could not sell their purchased items.</p>
                             </div>
                         </div>
                       </div>
-                      <h3 className="zero pb-10">playing for hours and earning $0</h3>
+                  <h3 className="zero pb-10">Playing for hours and earning $0 is Unacceptable!</h3>
                     </div>
 
                     <ul className="mt-30">
-                      <li><span>With Katana Inu,</span> you can sell your in-game items as NFTs and <span>make a profit, +</span> you can <span>earn rewards.</span></li>
-                      <li>The absence of high-end graphics and gamer retention in the blockchain space opens up a window of opportunity  and that is where Katana Inu comes in.</li>
+                  <li>This is why <span>Katana Inu</span> exists. To change the narrative of what it means to be a gamer.</li>
+                      {/* <li>The absence of high-end graphics and gamer retention in the blockchain space opens up a window of opportunity  and that is where Katana Inu comes in.</li> */}
                     </ul>
                 </div>
               </div>
@@ -74,18 +74,19 @@ const ProblemSolution = () => {
               <div className="s-about-content play_content">
                   <h2 className="pb-30">Our Solution</h2>
                   <ul>
-                      <li>A decentralized gaming economy with an NFT-Ecosystem via its own unique cross-chain NFT-Marketplace which provides an addictive and entertaining experience and income-earning opportunities for the players.</li>
+                  <li>A decentralized gaming economy with an NFT ecosystem via its own unique cross-chain NFT-Marketplace which provides an addictive and entertaining experience and income-earning opportunities for the players.</li>
+                  <li>With Katana Inu, you can sell your in-game items as NFTs and make a profit, + you can earn rewards.</li>
                   </ul>
-                  <h4>How to attract Gamers from on-,  and off-chain</h4>
+                  <h4>How to attract Gamers from on and off-chain</h4>
                     <ul>
-                      <li>We aim to develop a play-to-earn battle royale PC game with high-end graphics and breathtaking gameplay to attract a portion of the 1 billion traditional pc gamers. We also seek to provide our players with an NFT-ecosystem to create a lasting and addictive gaming experience with P2E mechanics.</li>
+                      <li>We have developed a play-to-earn battle royale PC game with good graphics and breathtaking gameplay to attract a portion of the 1 billion traditional pc gamers.We provide an NFT ecosystem and P2E mechanics, allowing players to earn from their grind.</li>
                       <li>All in-game skins are limited NFTs. Players that own these NFTs can sell them anytime at any price. Like any other commodity, there is a scarcity factor in monetizing these skins.</li>
 
                     </ul>
                     <h4>LENDING SYSTEM:</h4>
                     <ul>
                       <li>To participate in our P2E ecosystem, players need to hold some KATA tokens and NFTs. Investors can also partake by buying NFTs and KATA tokens which they can lend to players. Players and investors will share the revenue generated. </li>
-                      <li>Battle Royale, Limited NFTs, 1vsAll, 3vs3, 3vsAll, eSport</li>
+                      <li>Battle Royale, Limited NFTs, 1vsAll, 3vs3, 3vsAll, eSport.</li>
                     </ul>
                 </div>
               </div>

@@ -8,7 +8,7 @@ const Footer = () =>{
                 <div className="footer-logo-wrap">
                 <div className="footer-logo">
                     <a href="/"><img src="assets/img/logo/footer_logo.png" alt="Logo" /></a>
-                    
+
                 </div>
                 <div className="footer-social">
                     <ul>
@@ -32,7 +32,7 @@ const Footer = () =>{
                     </div>
                     <div className="footer-desc">
                     <h6 className="desc-title">Disclaimer</h6>
-                    <p>Nothing in this website constitutes financial advice, and it is always recommended to consult a qualified financial
+                    <p>Nothing on this website constitutes financial advice, and it is always recommended to consult a qualified financial
                         advisor before participating in any token or NFT purchases.</p>
                     </div>
                 </div>

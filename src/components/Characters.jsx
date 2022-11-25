@@ -11,7 +11,7 @@ const Characters = () =>{
           <div className="row">
             <div className="col-12">
               <div className="section-title text-center mb-180">
-                <h5 className="sub-title element paroller" data-paroller-factor=".05" data-paroller-type="foreground" data-paroller-direction="horizontal">READY TO SLASH</h5>
+                <h5 className="sub-title element paroller" data-paroller-factor=".05" data-paroller-type="foreground" data-paroller-direction="horizontal">READY TO SLASH?</h5>
                 <h2 className="title paroller" data-paroller-factor="-.05" data-paroller-type="foreground" data-paroller-direction="horizontal">Choose your warrior</h2>
               </div>
             </div>

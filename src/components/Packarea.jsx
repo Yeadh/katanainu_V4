@@ -21,7 +21,7 @@ const PackArea = () => {
                                                     <p>You can now mint our in-game NFTs and fight in our Katana Inu game with rare and legendary NFTs. </p>
                                                 </div>
                                                 <div className="pack-btn-wrap">
-                                                    <a href="https://minting.katanainu.com/" target="_blank" rel="noreferrer" className="btn">mint weapons <i class="fa-solid fa-chevron-right"></i></a>
+                                                    <a href="# " className="btn">mint weapons <span>(Coming Soon)</span> <i class="fa-solid fa-chevron-right"></i></a>
                                                 </div>
                                             </div>
                                         </div>
@@ -68,7 +68,7 @@ const PackArea = () => {
                                                     <p>You can now mint our in-game NFTs and fight in our Katana Inu game with rare and legendary NFTs. </p>
                                                 </div>
                                                 <div className="pack-btn-wrap">
-                                                    <a href="https://minting.katanainu.com/" target="_blank" rel="noreferrer" className="btn">mint Skins <i class="fa-solid fa-chevron-right"></i></a>
+                                                    <a href="# "className="btn">mint Skins <span>(Coming Soon)</span> <i class="fa-solid fa-chevron-right"></i></a>
                                                 </div>
                                             </div>
                                         </div>

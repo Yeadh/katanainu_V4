@@ -11,7 +11,7 @@ const Coin = () =>{
                         <h2 className="title">$KATA token</h2>
                         {/* <h5 className="sub-title paroller" data-paroller-factor=".05" data-paroller-type="foreground" data-paroller-direction="horizontal">THE ULTIMATE UTILITY</h5>
                         <h2 className="title paroller" data-paroller-factor="-.05" data-paroller-type="foreground" data-paroller-direction="horizontal">$KATA token</h2> */}
-                        <p>Kata tokens are used as Katana Inu game currency. With it, you can buy in-game items, pay entry fee to participate in tournaments and get discounts on trading fees. For earning in the game, you will also need to hold Kata tokens.</p>
+                        <p>Kata tokens are the primary Katana Inu game currency.With it, you can buy in-game items, pay the entry fee to participate in tournaments and get discounts on trading fees.You will also need to hold Kata tokens to earn in the game.</p>
                     </div>
                 </div>
             </div>
@@ -65,7 +65,7 @@ const Coin = () =>{
                                                 </div>
                                                 <div className="coin-content">
                                                     <h5 className="title">NFTs</h5>
-                                                    <p>NFTs are important part of the Katana Inu ecosystem. People can buy and sell using Kata.</p>
+                                                        <p>NFTs are an essential part of the Katana Inu ecosystem. People can buy and sell NFTs using Kata-tokens.</p>
                                                 </div>
                                             </div>
                                         </div>
@@ -87,7 +87,7 @@ const Coin = () =>{
                                                 </div>
                                                 <div className="coin-content">
                                                     <h5 className="title">Tournaments</h5>
-                                                    <p>Want to be a part of Global Tournaments? Participate and compete globally. Winner takes all.</p>
+                                                        <p>Want to be a part of Global Tournaments?Participate and compete globally.Here, the Winner takes all.</p>
                                                 </div>
                                             </div>
                                         </div>
@@ -98,7 +98,7 @@ const Coin = () =>{
                                                 </div>
                                                 <div className="coin-content">
                                                     <h5 className="title">NFT Marketplace</h5>
-                                                    <p>Trade and get discount on your trading fee with kata</p>
+                                                    <p>Trade and get trading fee discounts with kata tokens</p>
                                                 </div>
                                             </div>
                                         </div>

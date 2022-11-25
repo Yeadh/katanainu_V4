@@ -42,7 +42,7 @@ const Advisor = () =>{
                                 <div className="team-content">
                                     <span>ART DIRECTOR</span>
                                     <h3>SHAIKH DANIAL</h3>
-                                    <p>Award Winning Creative Director. Entrepreneur with since 15 years. Working with 21st Century Fox, Universal Pictures, Disney, World Bank Group, United Nations, Google, and many more global brands.</p>
+                                    <p>Award Winning Creative Director. A 15-year veteran entrepreneur. Working with 21st Century Fox, Universal Pictures, Disney, World Bank Group, United Nations, Google, and many more global brands.</p>
                                     <div className="team-social">
                                         <a href="# "><i className="fa-brands fa-twitter"></i></a>
                                         <a href="# "><i className="fa-brands fa-linkedin-in"></i></a>
@@ -59,9 +59,9 @@ const Advisor = () =>{
                                     <img src="assets/img/teams/advisor_02.png" alt=""/>
                                 </div>
                                 <div className="team-content">
-                                    <span>BLOCKCHAIN STRATEGIE</span>
+                                    <span>BLOCKCHAIN STRATEGIST</span>
                                     <h3>JEFFREY VAN EEDEN</h3>
-                                    <p>CEO of Gamezone.io and 9 years experience in the crypto space.</p>
+                                    <p>CEO of Gamezone.io and 9 years of experience within the crypto space.</p>
                                     <div className="team-social">
                                         <a href="# "><i className="fa-brands fa-twitter"></i></a>
                                         <a href="# "><i className="fa-brands fa-linkedin-in"></i></a>
@@ -80,7 +80,7 @@ const Advisor = () =>{
                                 <div className="team-content">
                                     <span>CRYPTO ADVISOR</span>
                                     <h3>KYLE CHASSE</h3>
-                                    <p>Founder of Master Venture, One of Top50 influencial people in Crypto Space with over 10 years expeience in Blockchain  and successfully advised several Binance-listed projects.Early investor in Kraken, Coinbase, Bitfinex and other big Exchanges.</p>
+                                    <p>Founder of Master Venture, One of the Top 50 influential people in the crypto space with over 10 years experience in blockchain  and successfully advised several Binance-listed projects.An early investor in Kraken, Coinbase, Bitfinex and other big Exchanges.</p>
                                     <div className="team-social">
                                         <a href="# "><i className="fa-brands fa-twitter"></i></a>
                                         <a href="# "><i className="fa-brands fa-linkedin-in"></i></a>
@@ -99,7 +99,7 @@ const Advisor = () =>{
                                 <div className="team-content">
                                     <span>WEB DEVELOPER</span>
                                     <h3>YEADH HASAN</h3>
-                                    <p>Founder of themebeyond.com and 10 years experience in the Web Development space</p>
+                                    <p>Founder of themebeyond.com with a decade of experience in the Web Development space</p>
                                     <div className="team-social">
                                         {/* <a href="# "><i className="fa-brands fa-twitter"></i></a> */}
                                         <a href="https://yeadh.com/" target="_blank" rel="noreferrer"><i className="fa-brands fa-linkedin-in"></i></a>

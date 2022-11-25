@@ -30,7 +30,7 @@ function PurchaseArea() {
                             <h5 className="sub-title paroller" data-paroller-factor=".05" data-paroller-type="foreground" data-paroller-direction="horizontal">PANCAKE SWAP AND UNISWAP</h5>
                         </div>
                         <div className="purchase-title-paragraph text-center">
-                            <p>The best way to purchase the Katana Token. Please make sure you Copy and Paste the correct Contract below when adding the token to your ETH or BSC Wallet and when you're purchasing Katana on Uniswap or Pancake Swap. To swap any token for $kata, just copy-paste the correct Contract into Pancakeswap or Uniswap, and swap for $Kata.Don't send funds to this address directly, or you will lose your tokens.</p>
+                            <p>Pancake swap and Uniswap are the easiest outlets for purchasing the Katana Inu Token.Please make sure you Copy and Paste the correct Contract below when adding the token to your ETH or BSC Wallet and when purchasing $KATA on Uniswap or Pancake Swap. To swap any token for $KATA, just copy-paste the correct Contract into Pancakeswap or Uniswap, and swap for $KATA. Do not send funds to this address directly, or you will lose your tokens.</p>
                         </div>
 
                     </div>
@@ -113,8 +113,8 @@ function PurchaseArea() {
                             <h2 className="title">Risk <span>warning</span></h2>
                         </div>
                         <div className="purchase-title-paragraph text-center">
-                            <p>Cryptocurrency trading is subject to high market risk. Please make your trades cautiously. You are advised that Katana Inu is not responsible for your trading losses. You are solely responsible for determining whether any investment, investment strategy or related transaction is appropriate for you and you shall be solely responsible for any loss or liability therefrom. Before trading, you should conduct your own due diligence and consult your financial advisors. Katana Inu will not be held responsible for the decisions you make to buy, sell, or hold any digital assets. Nothing herein shall be construed as Katana Inu providing any financial advice.</p>
-                            <p class="don_t mt-20">If you have any questions please dont hestitate to contact us: <span>support@katanainu.com</span></p>
+                            <p>Cryptocurrency trading is subject to high market risk.Please make your trades cautiously.Please be advised that Katana Inu is not responsible for your trading losses. You are solely responsible for determining whether any investment, investment strategy or related transaction is appropriate for you and you shall be solely responsible for any loss or liability therefrom. Before trading, you should conduct your own due diligence and consult your financial advisors. Katana Inu will not be held responsible for the decisions you make to buy, sell, or hold any digital assets. Nothing herein shall be construed as Katana Inu providing any financial advice.</p>
+                            <p class="don_t mt-20">If you have any questions please don't hesitate to contact us: <span>support@katanainu.com</span></p>
                         </div>
 
                     </div>

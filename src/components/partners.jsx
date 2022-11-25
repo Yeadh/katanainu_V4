@@ -1,6 +1,18 @@
 import React from 'react'
 import Slider from "react-slick";
+const Prev = (props) => {
+    const { className, onClick } = props
+    return (
+        <button type="button" className={className + " slick-prev"} onClick={onClick}><img src="assets/img/icons/gallery_left_arrow.png" alt="" /></button>
+    )
+}
 
+const Next = (props) => {
+    const { className, onClick } = props
+    return (
+        <button type="button" className={className + " slick-next"} onClick={onClick}><img src="assets/img/icons/gallery_right_arrow.png" alt="" /></button>
+    )
+}
 
 function Partners() {
     const settings = {
@@ -40,7 +52,9 @@ function Partners() {
                 settings: {
                     slidesToShow: 2,
                     slidesToScroll: 1,
-                    arrows: false,
+                    arrows: true,
+                    prevArrow: <Prev />,
+                    nextArrow: <Next />,
                 }
             },
         ]
@@ -250,7 +264,7 @@ function Partners() {
 
                         <div class="token-content text-center mb-50">
                             <div class="token-icon mb-20">
-                                <p>We are thrilled to announce our new partnership with..</p>
+                                <p>Katana Inu has partnered with the following companies.</p>
                             </div>
                         </div>
 
