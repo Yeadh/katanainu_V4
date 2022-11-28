@@ -1358,7 +1358,7 @@ label {
 	margin-bottom: 10px;
 }
 .download-content .download-now {
-	font-size: 52px;
+	font-size: 34px;
 	text-transform: uppercase;
 	color: #fff;
 	font-weight: 700;
@@ -1368,6 +1368,10 @@ label {
 }
 .download-content .download-now span {
 	display: block;
+}
+.download-now span img {
+	width: 70%;
+	margin-top: 10px;
 }
 .download-btn-wrap {
 	display: flex;

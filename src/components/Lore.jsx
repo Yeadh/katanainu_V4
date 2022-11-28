@@ -65,7 +65,7 @@ const Lore = () => {
                             <div className="s-about-content play_content">
                                 <p>The Ginko Clan now retain ultimate control of the land & have become consumed by greed as they continue the Clan’s long tradition of paper money creation to fund their desires. The religions & myths of the past fade so far from even the memory of the Ginko Clan that the Kodo Relics are now viewed as useless dogmatic trinkets desired only by the degenerate Shukutai. Only those noble heroes, initiated into the Kodo mysteries, retain the ancient knowledge & see the true power contained within these relics.</p>
                                 <p>After years of petitioning for the relics from the religious leaders of the 7 Shukutai factions, the Ginko Clan devised a devious & sadistic game.</p>
-                                <h2 class="pb-10 mt-30">The “Gishiki no Sentō” was born.</h2>
+                                <h2 class="pb-10 mt-30">The “Gishiki no Sento” was born.</h2>
 
 
                                 <p>The Chosen Champions of the strongest factions of Shukutai are pitted against each other in ritual combat, where the Ginko clan nefariously dangle the powerful stolen relics as prizes & watch on as the factions fight for their sacred relics. </p>

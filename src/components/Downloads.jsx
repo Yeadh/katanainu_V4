@@ -13,12 +13,12 @@ const Downloads = () =>{
                 <div className="download-content">
                   <h4 className="title">BETA VERSION IS COMING SOON!</h4>
                   <h6 className="desc">Our Beta will be 3 vs 3 player version with more game modes following soon.</h6>
-                  <p>You can test and play the demo 1vs1 now</p>
+                  <p>You can test and play the demo 1vs1 now.</p>
 
 
                   <h4 className="title">For this Demo, you need a key.</h4>
                   {/* <h4 className="title">Please request a KEY first</h4> */}
-                  <p>Server online everyday from 8-10 pm CET.</p>
+                  <p>Our server are online everyday from 8-10 pm CET time.</p>
                   <h2 className="download-now">Download Now &amp; <span><img src="assets/img/images/text.png" alt="" /></span></h2>
                   <div className="download-btn-wrap">
                     <a href="# ">

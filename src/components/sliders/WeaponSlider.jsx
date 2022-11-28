@@ -35,9 +35,18 @@ const WeaponSlider = ({nav, refs}) =>{
 	    nextArrow: <Next/>,
         responsive:[
             {
-                breakpoint: 1370,
+                breakpoint: 1800,
                 settings: {
                     items:5,
+                    centerPadding: '570px',
+                    slidesToShow: 1,
+                    slidesToScroll: 1
+                }
+            },
+            {
+                breakpoint: 1370,
+                settings: {
+                    items: 5,
                     centerPadding: '500px',
                     slidesToShow: 1,
                     slidesToScroll: 1
