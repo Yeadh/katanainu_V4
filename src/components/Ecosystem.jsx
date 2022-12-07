@@ -107,7 +107,7 @@ const Ecosystem = () =>{
                                             <li><a href="https://staking.katanainu.com/" target="_blank" rel="noreferrer" className="btn">Stake</a></li>
                                             <li><a href="# " target="_blank" rel="noreferrer" className="btn">Battlepass</a></li>
                                         </ul>
-                                        <a href="/benefits" className="read-more d-flex align-items-center mt-4 btn-sm btn">
+                                            <a href="/nftexplain.pdf" target="_blank" rel="noreferrer" className="read-more d-flex align-items-center mt-4 btn-sm btn">
                                             <span className="mr-3">Read more</span>
                                             <i className="fa-solid fa-arrow-right-long ml-2"></i>
                                         </a>
@@ -151,7 +151,7 @@ const Ecosystem = () =>{
                                             <li><a href="https://kainu.io/" target="_blank" rel="noreferrer" className="btn">Buy NFTs</a></li>
                                             <li><a href="# " className="btn">Buy Token</a></li>
                                         </ul>
-                                        <a href="/benefits" className="read-more d-flex align-items-center mt-4 btn-sm btn">
+                                            <a href="/nftexplain.pdf" target="_blank" rel="noreferrer" className="read-more d-flex align-items-center mt-4 btn-sm btn">
                                             <span className="mr-3">Read more</span>
                                                 <i className="fa-solid fa-arrow-right-long ml-2"></i>
                                         </a>

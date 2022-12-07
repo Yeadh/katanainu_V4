@@ -50,6 +50,7 @@ const Navs  = () => {
                             <li><a href="assets/resources/roadmap.png" target="_blank" rel="noreferrer">Roadmap</a></li>
                             <li><a href="assets/resources/katanainutokenomics.pdf" target="_blank" rel="noreferrer">Tokenomics</a></li>
                             <li><a href="# ">NFT Ecosystem</a></li>
+                            <li><a href="/nftexplain.pdf" target="_blank" rel="noreferrer">2D NFT System</a></li>
                             <li><a href="assets/resources/Pitchdeck.pdf" target="_blank" rel="noreferrer">Pitchdeck</a></li>
                         </ul>
                     </li>
@@ -75,7 +76,7 @@ const Navs  = () => {
                         </ul>
                     </li>
                     <li>
-                        <a href="http://play.katanainu.com/" target="_blank" rel="noreferrer">PLAY</a>
+                        <a href="https://docs.google.com/forms/d/e/1FAIpQLSeKIiYSpqNiBotOqkYZMUKqKnizt2_Xm1cLFjkyBH_CcpX3hg/viewform" target="_blank" rel="noreferrer">PLAY</a>
                     </li>
                     <li>
                         <NavLink to="/ranking" className={({ isActive }) => isActive ? 'active' : ''}>Ranking</NavLink>

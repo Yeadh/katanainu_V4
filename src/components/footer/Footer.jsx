@@ -12,12 +12,12 @@ const Footer = () =>{
                 </div>
                 <div className="footer-social">
                     <ul>
-                    <li><a href="# "><i className="fab fa-facebook-f" /></a></li>
-                    <li><a href="# "><i className="fab fa-tiktok" /></a></li>
-                    <li><a href="# "><i className="fab fa-instagram" /></a></li>
-                    <li><a href="# "><i className="fab fa-twitter" /></a></li>
-                    <li><a href="# "><i className="fab fa-reddit-alien" /></a></li>
-                    <li><a href="# "><i className="fab fa-discord" /></a></li>
+                        <li><a href="https://www.facebook.com/people/Katanainu/100069383490342/" target="_blank" rel="noreferrer"><i className="fab fa-facebook-f" /></a></li>
+                        <li><a href="https://www.tiktok.com/@katanainu" target="_blank" rel="noreferrer"><i className="fab fa-tiktok" /></a></li>
+                        <li><a href="https://instagram.com/katanainu" target="_blank" rel="noreferrer"><i className="fab fa-instagram" /></a></li>
+                        <li><a href="https://twitter.com/katanainu" target="_blank" rel="noreferrer"><i className="fab fa-twitter" /></a></li>
+                        <li><a href="https://www.reddit.com/r/katanainu" target="_blank" rel="noreferrer"><i className="fab fa-reddit-alien" /></a></li>
+                        <li><a href="https://www.discord.gg/katanainu" target="_blank" rel="noreferrer"><i className="fab fa-discord" /></a></li>
                     </ul>
                 </div>
                 </div>
@@ -44,20 +44,20 @@ const Footer = () =>{
                     <li><a href="assets/resources/katanainuwhitepaper.pdf" target="_blank" rel="noreferrer">Whitepaper</a></li>
                     <li><a href="assets/resources/roadmap.png" target="_blank" rel="noreferrer">Roadmap</a></li>
                     <li><a href="assets/resources/katanainutokenomics.pdf" target="_blank" rel="noreferrer">Tokenomics</a></li>
-                    <li><a href="# ">FAQ</a></li>
+                    <li><a href="/faq">FAQ</a></li>
                     </ul>
                 </div>
                 <div className="widget">
                     <h5 className="fw-title">need help?</h5>
                     <ul className="footer-menu">
                     <li><a href="# ">Contact Us</a></li>
-                    <li><a href="# ">Discord</a></li>
-                    <li><a href="# ">Medium</a></li>
-                    <li><a href="# ">Reddit</a></li>
+                    <li><a href="https://www.discord.gg/katanainu" target="_blank" rel="noreferrer">Discord</a></li>
+                    <li><a href="https://medium.com/@katanainu/katana-inu-a-great-play2earn-battle-royale-pc-game-with-nft-marketplace-on-layer-2-a56f9bbcce79" target="_blank" rel="noreferrer">Medium</a></li>
+                    <li><a href="https://www.reddit.com/r/katanainu" target="_blank" rel="noreferrer">Reddit</a></li>
                     <li><a href="# ">ChainVision Games</a></li>
-                    <li><a href="# ">Privacy</a></li>
-                    <li><a href="# ">Terms Of Service</a></li>
-                    <li><a href="# ">Cookies Policy</a></li>
+                    <li><a href="Katanainuprivacy.pdf" target="_blank" rel="noreferrer">Privacy</a></li>
+                    <li><a href="termsofservicekatanainu.docx" target="_blank" rel="noreferrer">Terms Of Service</a></li>
+                    <li><a href="cookiespolicy.pdf" target="_blank" rel="noreferrer">Cookies Policy</a></li>
                     </ul>
                 </div>
                 <div className="widget">

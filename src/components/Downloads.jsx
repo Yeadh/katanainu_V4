@@ -21,7 +21,7 @@ const Downloads = () =>{
                   <p>Our server are online everyday from 8-10 pm CET time.</p>
                   <h2 className="download-now">Download Now &amp; <span><img src="assets/img/images/text.png" alt="" /></span></h2>
                   <div className="download-btn-wrap">
-                    <a href="# ">
+                    <a target="_blank" rel="noreferrer" href="https://docs.google.com/forms/d/e/1FAIpQLSeKIiYSpqNiBotOqkYZMUKqKnizt2_Xm1cLFjkyBH_CcpX3hg/viewform">
                       <img src="assets/img/images/download_btn.png" alt="" />
                       <span>Please request a KEY first</span>
                     </a>
