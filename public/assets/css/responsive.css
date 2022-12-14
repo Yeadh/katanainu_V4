@@ -1,5 +1,8 @@
 /* Extra large devices (large desktops, 1800px and up) */
 @media (max-width: 1800px) {
+	.parallax-area {
+		height: 65vh;
+	}
 	.main-slider .slick-arrow {
 		background: transparent;
 		width: 40px;
@@ -225,6 +228,10 @@
 	}
 }
 @media (max-width:1280px){
+	.react-player {
+		width: 92%;
+		height: 92%;
+	}
 	.purchase-item .purchase-btn .btn {
 		width: auto;
 		height: auto;
@@ -482,6 +489,21 @@
 
 
 @media (max-width:1024px){
+	.react-player {
+		width: 100%;
+		height: 100%;
+	}
+	.player-wrapper {
+		padding-top: 56.25%;
+		margin-top: 40%;
+	}
+	.download-img img {
+		margin-left: 22%;
+		margin-top: -38%;
+	}
+	.download-img::before {
+		top: -100%;
+	}
 	.parea-bg {
 		height: 270px;
 	}
@@ -1038,6 +1060,9 @@
 	}
 }
 @media only screen and (max-width:820px) {
+	.download-area {
+		padding: 0 0 150px;
+	}
 	.about-video iframe {
 		width: 100%;
 		margin-left: 10%;
@@ -1519,17 +1544,6 @@
 		margin: 0 0 20px;
 	}
 
-	.download-img::before {
-		left: 50%;
-		transform: translateX(-50%);
-		top: 0;
-		width: 158%;
-		height: 520px;
-		z-index: -1;
-		pointer-events: none;
-		background-repeat: no-repeat;
-		background-size: contain;
-	}
 
 	.download-content .download-now {
 		font-size: 34px;
@@ -1766,6 +1780,14 @@
 
 
 @media only screen and (max-width:540px) {
+	.download-area {
+		padding: 0;
+	}
+	.download-img::before {
+		top: -100%;
+		width: 100%;
+		height: 100%;
+	}
 	.download-btn-wrap .btn {
 		padding: 23px 6px;
 		border-radius: 10px;
@@ -1867,6 +1889,11 @@
 }
 
 @media only screen and (max-width: 414px) {
+	.download-img::before {
+		top: -100%;
+		width: 400px;
+		height: 300px;
+	}
 	.parea-bg {
 		width: 100%;
 	}

@@ -103,7 +103,23 @@ const PackArea = () => {
                     </div>
                 </div>
             </section>
-            {/* download-area-end */}
+            {/* Pack-area-end */}
+            <div class="weapon-bottom-button">
+                <div class="container">
+                    <div class="row justify-content-center">
+                        <div class="col-xl-8 col-lg-10">
+                            <div class="banner-btn-wrap mt-30 mb-50">
+                                <div class="wow fadeInLeft" data-wow-delay=".8s" data-animation="fadeInLeft">
+                                    <a href="https://docs.google.com/forms/d/e/1FAIpQLScVXnhpPN1tmdKAczdvd5YDwCo_14oF3VdAp84BK7c9KEKD4Q/viewform" target="_blank" rel="noreferrer" class="btn">Apply as Ambassador</a>
+                                </div>
+                                <div class="wow fadeInRight" data-wow-delay=".8s" data-animation="fadeInRight">
+                                    <a href="https://docs.google.com/forms/d/e/1FAIpQLScVXnhpPN1tmdKAczdvd5YDwCo_14oF3VdAp84BK7c9KEKD4Q/viewform" target="_blank" rel="noreferrer" class="btn">Apply as Influencer</a>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
         </>
     )
 }

@@ -45,15 +45,17 @@ const Downloads = () =>{
               <div className="col-xl-7 col-lg-9">
                 <div className="download-img">
                   <img className="paroller" data-paroller-factor=".03" data-paroller-type="foreground" data-paroller-direction="horizontal" src="assets/img/images/download_img.png" alt="img" />
-                  <div className="about-video">
+                  <div className="player-wrapper">
+
                     <ReactPlayer
-                      url={"https://www.youtube.com/watch?v=9c7pDf-WFAk&t=4s"}
-                      playing={true}
-                      width={640}
-                      height={360}
-                      loop={true}
-                      controls={true}
-                      muted={true}
+                      className='react-player'
+                      url='https://www.youtube.com/watch?v=9c7pDf-WFAk&t=4s'
+                      playing='true'
+                      width='640'
+                      height='360'
+                      loop='true'
+                      controls='true'
+                      // muted='true'
                     />
                   </div>
                 </div>

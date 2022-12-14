@@ -52,6 +52,7 @@ const Navs  = () => {
                             <li><a href="# ">NFT Ecosystem</a></li>
                             <li><a href="/nftexplain.pdf" target="_blank" rel="noreferrer">2D NFT System</a></li>
                             <li><a href="assets/resources/Pitchdeck.pdf" target="_blank" rel="noreferrer">Pitchdeck</a></li>
+                            <li><a href="https://docs.google.com/forms/d/e/1FAIpQLScVXnhpPN1tmdKAczdvd5YDwCo_14oF3VdAp84BK7c9KEKD4Q/viewform" target="_blank" rel="noreferrer">Ambassador request</a></li>
                         </ul>
                     </li>
                     <li className="menu-item-has-children">
@@ -85,7 +86,7 @@ const Navs  = () => {
                 </div>
                 <div className="header-action">
                 <ul>
-                    <li className="header-btn"><a href="https://kainu.io/" target="_blank" rel="noreferrer" className="btn">MARKETPLACE <i class="fa-solid fa-chevron-right"></i></a></li>
+                        <li className="header-btn"><a href="https://kainu.io/" target="_blank" rel="noreferrer" className="btn">MARKETPLACE <i className="fa-solid fa-chevron-right"></i></a></li>
                 </ul>
                 </div>
             </nav>

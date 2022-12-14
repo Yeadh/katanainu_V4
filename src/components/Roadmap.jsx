@@ -59,11 +59,11 @@ const Roadmap = () => {
                     <li className="active">More Partnership Co-operations</li>
                     <li>Expand marketing strategy</li>
                     <li className="active">Create more 3D Game NFTs</li>
-                    <li>Big game trailer</li>
+                    <li className="active">Big game trailer</li>
                     <li className="active">Game Demo</li>
-                    <li>More CEX listing</li>
+                    <li className="active">More CEX listing</li>
                     <li>Game Blog Website</li>
-                    <li>Cross chain P2E Marketplace</li>
+                    <li className="active">Cross chain P2E Marketplace</li>
                     </ul>
                 </div>
                 <div className="roadmap-item">
