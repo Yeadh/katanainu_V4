@@ -227,6 +227,11 @@
 		margin-top: 0;
 	}
 }
+@media (max-width: 1334px){
+	.parallax-area {
+		height: 60vh;
+	}
+}
 @media (max-width:1280px){
 	.react-player {
 		width: 92%;
