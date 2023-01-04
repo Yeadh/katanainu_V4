@@ -502,6 +502,9 @@
 		padding-top: 56.25%;
 		margin-top: 40%;
 	}
+	.download-img {
+		margin-top: 35%;
+	}
 	.download-img img {
 		margin-left: 22%;
 		margin-top: -38%;
@@ -610,10 +613,13 @@
 	}
 	.download-img .about-video {
 		position: absolute;
-			top: 40%;
+			top: -10%;
 			left: 0.5%;
 			height: 392px;
-			width: 99%;
+			width: 100%;
+	}
+	.about_video iframe {
+		width: 100%;
 	}
 	.dimond-slider .slick-dots {
 		top: 44%;
@@ -986,14 +992,16 @@
 	.pack-left {
 		float: none;
 	}
-
+	.download-img {
+		margin-top: 35%;
+	}
 	.pack-right {
 		margin-bottom: 115px;
 	}
 	.about-video iframe {
 		width: 100%;
-		margin-left: 15%;
-		margin-top: -25px;
+		margin-left: 7%;
+		margin-top: -230px;
 	}
 	.download-img img {
 		width: 70%;
@@ -1068,14 +1076,15 @@
 	.download-area {
 		padding: 0 0 150px;
 	}
-	.about-video iframe {
-		width: 100%;
-		margin-left: 10%;
-		margin-top: -25px;
-	}
 	.download-img {
-		margin: 0;
+		margin-top: 35%;
 	}
+	.about-video iframe {
+		width: 85%;
+		margin-left: 10%;
+		margin-top: -210px;
+	}
+
 	.download-img img {
 		width: 65%;
 		margin-left: 15%;
@@ -1812,10 +1821,10 @@
 		display: none;
 	}
 	.about-video iframe {
-		width: 78%;
+		width: 100%;
 		margin-left: 0%;
 		margin-top: -15px;
-		height: 78%;
+		height: 100%;
 	}
 	.action-thumb iframe {
 		width: 100%;
@@ -1902,9 +1911,12 @@
 	.parea-bg {
 		width: 100%;
 	}
+	.download-img{
+		margin-top: 45%;
+	}
 	.about-video iframe {
-		width: 55%;
-		height: 60%;
+		width: 100%;
+		height: 100%;
 	}
 	.pack_area {
 		margin-top: -10px;

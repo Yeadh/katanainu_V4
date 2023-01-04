@@ -49,7 +49,7 @@ const Navs  = () => {
                             <li><a href="assets/resources/katanainuwhitepaper.pdf" target="_blank" rel="noreferrer">Whitepaper</a></li>
                             <li><a href="assets/resources/roadmap.png" target="_blank" rel="noreferrer">Roadmap</a></li>
                             <li><a href="assets/resources/katanainutokenomics.pdf" target="_blank" rel="noreferrer">Tokenomics</a></li>
-                            <li><a href="# ">NFT Ecosystem</a></li>
+                            <li><a target="_blank" rel="noreferrer" href="https://www.youtube.com/watch?v=N00zOuIwI3M">NFT Ecosystem</a></li>
                             <li><a href="/nftexplain.pdf" target="_blank" rel="noreferrer">2D NFT System</a></li>
                             <li><a href="assets/resources/Pitchdeck.pdf" target="_blank" rel="noreferrer">Pitchdeck</a></li>
                             <li><a href="https://docs.google.com/forms/d/e/1FAIpQLScVXnhpPN1tmdKAczdvd5YDwCo_14oF3VdAp84BK7c9KEKD4Q/viewform" target="_blank" rel="noreferrer">Ambassador request</a></li>

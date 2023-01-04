@@ -45,6 +45,7 @@ const Footer = () =>{
                     <li><a href="assets/resources/roadmap.png" target="_blank" rel="noreferrer">Roadmap</a></li>
                     <li><a href="assets/resources/katanainutokenomics.pdf" target="_blank" rel="noreferrer">Tokenomics</a></li>
                     <li><a href="/faq">FAQ</a></li>
+                    <li><a target="_blank" rel="noreferrer" href="https://chainplay.gg/games/katana-inu/">Chainplay</a></li>
                     </ul>
                 </div>
                 <div className="widget">

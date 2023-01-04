@@ -1305,18 +1305,19 @@ label {
 	position: relative;
 	z-index: 1;
 }
-/* .download-img img {
+.download-img img {
 	-webkit-box-reflect: below 0px -webkit-gradient(linear, left top, left bottom, from(transparent), color-stop(70%, transparent), to(rgba(250, 250, 250, 0.1)));
 	width: 70%;
 		margin-left: 5%;
-} */
-.download-img img {
+}
+/* .download-img img {
 	-webkit-box-reflect: below 0px -webkit-gradient(linear, left top, left bottom, from(transparent), color-stop(70%, transparent), to(rgba(250, 250, 250, 0.1)));
-	width: 50%;
+	width: 70%;
 	margin-left: 15%;
 	position: absolute;
-	margin-top: -40%;
-}
+	margin-top: -34%;
+	z-index: -1;
+} */
 .download-img .about-video{
 	position: absolute;
 	top: 35%;
@@ -1328,7 +1329,7 @@ label {
 	content: "";
 	position: absolute;
 	left: -110px;
-	top: -80%;
+	top: -20%;
 	background-image: url(../img/images/download_shape.png);
 	width: 984px;
 	height: 861px;
@@ -3423,8 +3424,8 @@ footer {
 	padding-right: 0;
 }
 .about_video iframe {
-	width: 90%;
-	height: 84%;
+	width: 95%;
+	height: 100%;
 }
 .download-btn-wrap .btn {
 	padding: 20px 35px 20px 33px;
