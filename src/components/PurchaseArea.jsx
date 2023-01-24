@@ -24,6 +24,11 @@ function PurchaseArea() {
         <section className="purchase-area">
             <div className="container">
                 <div className="row justify-content-center">
+                    <div className="exchange-cal">
+                        <iframe id="simpleswap-frame" name="SimpleSwap Widget" width="528px" height="392px" src="https://simpleswap.io/widget/d08a1cfe-4ae7-428a-80ad-ff1a1faaa710" frameborder="0"></iframe>
+                    </div>
+                </div>
+                <div className="row justify-content-center">
                     <div className="col-lg-10">
                         <div className="section-title text-center mb-50">
                             {/* <h2 className="title paroller" data-paroller-factor="-.05" data-paroller-type="foreground" data-paroller-direction="horizontal">YOU CAN <span>PURCHASE</span> now</h2> */}
