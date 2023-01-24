@@ -3470,3 +3470,10 @@ footer {
 	width:92%;
 	height: 92%;;
 }
+.exchange-cal{
+	text-align: center;
+	margin-bottom: 100px;
+}
+.exchange-cal iframe {
+	width: 100%;
+}
