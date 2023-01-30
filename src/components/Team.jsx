@@ -22,9 +22,9 @@ const Team = () =>{
                                     <h3>MARWAN H</h3>
                                     <p>Random goes here for explanations, which will help random generate. Random goes here.</p>
                                     <div className="team-social">
-                                        <a href="# "><i className="fa-brands fa-twitter"></i></a>
-                                        <a href="# "><i className="fa-brands fa-linkedin-in"></i></a>
-                                        <a href="# "><i className="fa-brands fa-instagram"></i></a>
+                                        <a href="https://twitter.com/marwankatanainu" target="_blank" rel="noreferrer"><i className="fa-brands fa-twitter"></i></a>
+                                        <a href="https://www.linkedin.com/in/marwan1412/" target="_blank" rel="noreferrer"><i className="fa-brands fa-linkedin-in"></i></a>
+                                        <a href="https://www.instagram.com/marwankatanainu/" target="_blank" rel="noreferrer"><i className="fa-brands fa-instagram"></i></a>
                                     </div>
                                 </div>
                             </div>
@@ -41,9 +41,9 @@ const Team = () =>{
                                     <h3>HAMZA S.</h3>
                                     <p>Random goes here for explanations, which will help random generate. Random goes here.</p>
                                     <div className="team-social">
-                                        <a href="# "><i className="fa-brands fa-twitter"></i></a>
-                                        <a href="# "><i className="fa-brands fa-linkedin-in"></i></a>
-                                        <a href="# "><i className="fa-brands fa-instagram"></i></a>
+                                        <a href="https://twitter.com/hamzashamsi3" target="_blank" rel="noreferrer"><i className="fa-brands fa-twitter"></i></a>
+                                        <a href="https://www.linkedin.com/in/hamzashamsi/?trk=public_profile_browsemap&originalSubdomain=pk" target="_blank" rel="noreferrer"><i className="fa-brands fa-linkedin-in"></i></a>
+                                        {/* <a href="# "><i className="fa-brands fa-instagram"></i></a> */}
                                     </div>
                                 </div>
                             </div>
@@ -60,9 +60,9 @@ const Team = () =>{
                                     <h3>YEZDAN N.</h3>
                                     <p>Random goes here for explanations. Which will help random generate. Random goes here.</p>
                                     <div className="team-social">
-                                        <a href="# "><i className="fa-brands fa-twitter"></i></a>
-                                        <a href="# "><i className="fa-brands fa-linkedin-in"></i></a>
-                                        <a href="# "><i className="fa-brands fa-instagram"></i></a>
+                                        <a href="https://twitter.com/yezdan2117?s=11&t=tq8zUbCArnw5pSqCTGBn3g" target="_blank" rel="noreferrer"><i className="fa-brands fa-twitter"></i></a>
+                                        <a href="https://www.linkedin.com/in/yezdan-nas-25b637221/" target="_blank" rel="noreferrer"><i className="fa-brands fa-linkedin-in"></i></a>
+                                        {/* <a href="# " target="_blank" rel="noreferrer"><i className="fa-brands fa-instagram"></i></a> */}
                                     </div>
                                 </div>
                             </div>
