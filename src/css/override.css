@@ -164,7 +164,7 @@
     position: relative;
     height: 300px;
     text-align: center;
-    z-index: 22;
+    z-index: 0;
 }
 
 .team-thumbnail::before {
