@@ -11,8 +11,16 @@ $(window).on('load', function () {
 
 
 /*=============================================
+	=    		 Remove Class		      =
+=============================================*/
+	$(".go_down").click(function () {
+		$(".purchase-title-paragraph p").removeClass("hide_text");
+	});
+/*=============================================
 	=    		 Main Slider		      =
 =============================================*/
+
+
 function mainSlider() {
 	var BasicSlider = $('.slider-active');
 	BasicSlider.on('init', function (e, slick) {
@@ -150,7 +158,7 @@ function doAnimations(elements) {
 	elements.each(function () {
 		let $this = $(this);
 		let $animationDelay = $this.data('wow-delay');
-		
+
 		let $animationType = 'animated ' + $this.data('animation');
 		$this.css({
 			'animation-delay': $animationDelay,

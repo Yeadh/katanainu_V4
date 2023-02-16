@@ -23,11 +23,11 @@ function PurchaseArea() {
     return (
         <section className="purchase-area">
             <div className="container">
-                <div className="row justify-content-center">
+                {/* <div className="row justify-content-center">
                     <div className="exchange-cal">
                         <iframe id="simpleswap-frame" name="SimpleSwap Widget" width="528px" height="392px" src="https://simpleswap.io/widget/d08a1cfe-4ae7-428a-80ad-ff1a1faaa710" frameborder="0"></iframe>
                     </div>
-                </div>
+                </div> */}
                 <div className="row justify-content-center">
                     <div className="col-lg-10">
                         <div className="section-title text-center mb-50">
@@ -118,8 +118,9 @@ function PurchaseArea() {
                             <h2 className="title">Risk <span>warning</span></h2>
                         </div>
                         <div className="purchase-title-paragraph text-center">
-                            <p>Cryptocurrency trading is subject to high market risk.Please make your trades cautiously.Please be advised that Katana Inu is not responsible for your trading losses. You are solely responsible for determining whether any investment, investment strategy or related transaction is appropriate for you and you shall be solely responsible for any loss or liability therefrom. Before trading, you should conduct your own due diligence and consult your financial advisors. Katana Inu will not be held responsible for the decisions you make to buy, sell, or hold any digital assets. Nothing herein shall be construed as Katana Inu providing any financial advice.</p>
+                            <p className='hide_text'>Cryptocurrency trading is subject to high market risk.Please make your trades cautiously.Please be advised that Katana Inu is not responsible for your trading losses. You are solely responsible for determining whether any investment, investment strategy or related transaction is appropriate for you and you shall be solely responsible for any loss or liability therefrom. Before trading, you should conduct your own due diligence and consult your financial advisors. Katana Inu will not be held responsible for the decisions you make to buy, sell, or hold any digital assets. Nothing herein shall be construed as Katana Inu providing any financial advice.</p>
                             <p class="don_t mt-20">If you have any questions please don't hesitate to contact us: <span>support@katanainu.com</span></p>
+                            <button class="go_down open"><i class="fas fa-angle-down"></i></button>
                         </div>
 
                     </div>

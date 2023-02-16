@@ -6,8 +6,8 @@ const Brands = () =>{
                 <div className="container">
                 <div className="row brand-active">
                     <div className="col">
-                    <a href="# " className="brand-item">
-                        <img src="assets/img/brand/brand_logo01.png" alt="brand" />
+                        <a href="https://www.certik.com/projects/katanainu" className="brand-item" target="_blank" rel="noreferrer">
+                        <img src="assets/img/brand/download.svg" alt="brand" />
                     </a>
                     </div>
                     <div className="col">
