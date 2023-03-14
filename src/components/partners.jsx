@@ -1,4 +1,5 @@
 import React from 'react'
+// import Ticker from 'react-ticker'
 import Slider from "react-slick";
 const Prev = (props) => {
     const { className, onClick } = props
@@ -13,6 +14,9 @@ const Next = (props) => {
         <button type="button" className={className + " slick-next"} onClick={onClick}><img src="assets/img/icons/gallery_right_arrow.png" alt="" /></button>
     )
 }
+
+
+
 
 function Partners() {
     const settings = {
@@ -256,6 +260,8 @@ function Partners() {
                         </Slider>
                     </div>
                 </div>
+
+
                 <div className="row align-items-center text-center">
                     <div className="col-xl-12 col-lg-12">
                         <div className="section-title text-center mb-20 mt-50">
@@ -366,6 +372,12 @@ function Partners() {
                     <div className="col-xl-2 col-lg-2 mb-30">
                         <div className="nft_market annaounce img text-center">
                             <img src="assets/img/announcement/cyber.png" alt="" />
+                        </div>
+                    </div>
+
+                    <div className="col-xl-2 col-lg-2 mb-30">
+                        <div className="nft_market annaounce img text-center">
+                            <img src="assets/img/partners/metaverser.png" alt="" />
                         </div>
                     </div>
 

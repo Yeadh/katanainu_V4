@@ -2,7 +2,7 @@ const Roadmap = () => {
     return (
         <>
         {/* roadmap-area */}
-        <section className="roadmap-area">
+        <section id="roadmap" className="roadmap-area">
             <div className="container">
             <div className="row">
                 <div className="col-12">

@@ -120,7 +120,7 @@ function PurchaseArea() {
                         <div className="purchase-title-paragraph text-center">
                             <p className='hide_text'>Cryptocurrency trading is subject to high market risk.Please make your trades cautiously.Please be advised that Katana Inu is not responsible for your trading losses. You are solely responsible for determining whether any investment, investment strategy or related transaction is appropriate for you and you shall be solely responsible for any loss or liability therefrom. Before trading, you should conduct your own due diligence and consult your financial advisors. Katana Inu will not be held responsible for the decisions you make to buy, sell, or hold any digital assets. Nothing herein shall be construed as Katana Inu providing any financial advice.</p>
                             <p class="don_t mt-20">If you have any questions please don't hesitate to contact us: <span>support@katanainu.com</span></p>
-                            <button class="go_down open"><i class="fas fa-angle-down"></i></button>
+                            <button onclick="myFunction()" class="go_down open"><i id="myDIV" class="fas fa-angle-down"></i></button>
                         </div>
 
                     </div>

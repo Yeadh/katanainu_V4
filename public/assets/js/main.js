@@ -11,8 +11,16 @@ $(window).on('load', function () {
 
 
 /*=============================================
+	=    		 Add Class		      =
+=============================================*/
+	function myFunction() {
+		var element = document.getElementById("myDIV");
+		element.classList.add("mystyle");
+	}
+/*=============================================
 	=    		 Remove Class		      =
 =============================================*/
+
 	$(".go_down").click(function () {
 		$(".purchase-title-paragraph p").removeClass("hide_text");
 	});

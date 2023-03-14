@@ -3495,3 +3495,38 @@ footer {
 	transition: 1s ease;
 	border: none;
 }
+.mystyle{
+	display: none;
+}
+.market_fix h1{
+	position: relative;
+	display: inline-block;
+	overflow: hidden;
+	vertical-align: middle;
+	font-size: 18px;
+	line-height: 24px;
+	font-weight: 600;
+	font-family: 'Poppins', sans-serif;
+	color: #fff !important;
+	text-align: center;
+	padding: 10px 35px 10px 33px;
+	z-index: 1;
+	border-radius: 150px;
+	transition: all 500ms ease;
+}
+.market_fix span{
+	padding-left: 5px;
+	color: #f3a511;
+	font-weight: 600;
+	font-family: 'Poppins', sans-serif;
+}
+
+.margin_top{
+	margin-top: -15px;
+}
+.for-more{
+	padding-left: 28px;
+}
+.for_button{
+	margin-top: 15px;
+}

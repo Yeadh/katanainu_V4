@@ -101,7 +101,9 @@ const Advisor = () =>{
                                     <p>Founder of themebeyond.com with a decade of experience in the Web Development space</p>
                                     <div className="team-social">
                                         {/* <a href="# "><i className="fa-brands fa-twitter"></i></a> */}
-                                        <a href="https://yeadh.com/" target="_blank" rel="noreferrer"><i className="fa-brands fa-linkedin-in"></i></a>
+                                        <a href="https://themebeyond.com/" target="_blank" rel="noreferrer"><i className="fa-solid fa-link"></i></a>
+                                        <a href="https://www.linkedin.com/in/yeadh-hasan-7b395264/" target="_blank" rel="noreferrer"><i className="fa-brands fa-linkedin-in"></i></a>
+                                        <a href="https://www.instagram.com/yeadhhasan/" target="_blank" rel="noreferrer"><i className="fa-brands fa-instagram"></i></a>
                                         {/* <a href="# "><i className="fa-brands fa-instagram"></i></a> */}
                                     </div>
                                 </div>

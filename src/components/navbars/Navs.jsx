@@ -40,14 +40,15 @@ const Navs  = () => {
                             <li><a href="# ">Characters</a></li>
                             <li><a href="# ">Weapons</a></li>
                             <li><a href="# ">Assets</a></li>
-                            <li><a href="# ">Partner Program (Affiliate)</a></li>
+                            <li><a href="# ">Partner Program (Affiliate)<span>(Coming Soon)</span></a></li>
                         </ul>
                     </li>
                     <li className="menu-item-has-children">
                         <a href="# "><span>Documents</span></a>
                         <ul className="submenu">
                             <li><a href="assets/resources/katanainuwhitepaper.pdf" target="_blank" rel="noreferrer">Whitepaper</a></li>
-                            <li><a href="assets/resources/roadmap.png" target="_blank" rel="noreferrer">Roadmap</a></li>
+                            <li><a href="#roadmap">Roadmap</a></li>
+                            <li><a href="assets/resources/Roadmap1.png" target="_blank" rel="noreferrer">Roadmap 2</a></li>
                             <li><a href="assets/resources/katanainutokenomics.pdf" target="_blank" rel="noreferrer">Tokenomics</a></li>
                             <li><a target="_blank" rel="noreferrer" href="https://www.youtube.com/watch?v=N00zOuIwI3M">NFT Ecosystem</a></li>
                             <li><a href="/nftexplain.pdf" target="_blank" rel="noreferrer">2D NFT System</a></li>
