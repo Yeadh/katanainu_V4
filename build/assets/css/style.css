@@ -1307,8 +1307,8 @@ label {
 }
 .download-img img {
 	-webkit-box-reflect: below 0px -webkit-gradient(linear, left top, left bottom, from(transparent), color-stop(70%, transparent), to(rgba(250, 250, 250, 0.1)));
-	width: 70%;
-		margin-left: 5%;
+	width: 82%;
+	margin-left: 0%;
 }
 /* .download-img img {
 	-webkit-box-reflect: below 0px -webkit-gradient(linear, left top, left bottom, from(transparent), color-stop(70%, transparent), to(rgba(250, 250, 250, 0.1)));
@@ -1328,8 +1328,8 @@ label {
 .download-img::before {
 	content: "";
 	position: absolute;
-	left: -110px;
-	top: -20%;
+	left: -125px;
+	top: -25%;
 	background-image: url(../img/images/download_shape.png);
 	width: 984px;
 	height: 861px;
@@ -1353,27 +1353,27 @@ label {
 	margin: 0 0 6px;
 }
 .download-content .desc {
-	font-size: 18px;
-	color: #fff;
+	font-size: 20px;
+	color: #CBCBCBBF;
 	font-weight: 400;
-	width: 90%;
-	margin: 0 0 10px;
+	margin: 0;
 }
-.download-content > p {
-    font-size: 24px;
-    color: #949494;
+.server_content p {
+	font-size: 20px;
+	font-weight: 400;
+	color: #ffffffd4;
 	font-family: var(--font-family-heading);
-	padding-right: 10%;
-	margin-bottom: 10px;
+	margin: 0;
 }
+
 .download-content .download-now {
-	font-size: 34px;
+	font-size: 16px;
 	text-transform: uppercase;
 	color: #fff;
-	font-weight: 700;
-	font-style: italic;
-	line-height: 1;
-	margin: 27px 0 0;
+	font-weight: 400;
+	line-height: 22.16px;
+	/* margin: 27px 0 0; */
+
 }
 .download-content .download-now span {
 	display: block;
@@ -1385,8 +1385,8 @@ label {
 .download-btn-wrap {
 	display: flex;
 	align-items: center;
-	gap: 0 25px;
-	margin: 35px 0 25px;
+	gap: 0 15px;
+	margin: 5px 0 25px;
 }
 .download-btn-wrap a{
 	display: flex;
@@ -3529,4 +3529,278 @@ footer {
 }
 .for_button{
 	margin-top: 15px;
+}
+.new_title{
+	color: #F9C306;
+	font-size: 64px;
+	font-style: italic;
+	font-weight: 500;
+	font-family: 'Jost';
+	text-transform: uppercase;
+	line-height: 40px;
+}
+.new_title_bold{
+	color: #fff;
+	font-size: 64px;
+	font-weight: 700;
+	font-family: 'Jost';
+	text-transform: uppercase;
+}
+.server_open {
+	display: flex;
+
+}
+.server_time ul {
+	display: flex;
+	padding-left: 30px;
+}
+.server_time ul li {
+	border: 1px solid #F9C30680;
+	border-radius: 18px;
+	padding: 8px 15px;
+	margin-right: 5px;
+	font-family: 'Jost';
+		font-style: italic;
+		font-weight: 600;
+		font-size: 24px;
+		line-height: 118.5%;
+		text-transform: lowercase;
+		color: #F9C306;
+}
+.need_key {
+	display: flex;
+}
+.key_img {
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	padding: 0 20px 0 0;
+}
+.key_content h2 {
+	font-family: Jost;
+	font-size: 24px;
+	font-weight: 400;
+	line-height: 33px;
+	letter-spacing: 0em;
+	text-align: left;
+	color: #FFFFFFBF;
+	padding: 20px 30px 20px 10px;
+	width: 60%;
+}
+
+.key_mark {
+	font-family: Jost;
+	font-size: 24px;
+	font-style: italic;
+	font-weight: 600;
+	line-height: 33px;
+	letter-spacing: 0em;
+	text-align: left;
+	color: #F9C306;
+}
+.join_4_key{
+	font-family: 'Jost';
+	font-style: italic;
+	font-weight: 600;
+	font-size: 19px;
+	line-height: 118.5%;
+	text-transform: capitalize;
+	color: #FFFFFF;
+	background: #808AFF;
+	padding: 15px;
+	width: 71%;
+	border-radius: 7px;
+	margin-bottom: 15px;
+}
+.join_4_key a {
+	color: #fff;
+}
+.join_4_key i{
+	margin-left: 10px;
+	font-size: 34px;
+	position: absolute;
+	margin-top: -5px;
+}
+.dont_worry{
+	font-family: 'Jost';
+	font-style: italic;
+	font-weight: 600;
+	font-size: 19px;
+	line-height: 118.5%;
+	text-transform: capitalize;
+	color: #FFFFFF;
+	background: #191D23;
+	padding: 15px;
+	width: 71%;
+	border-radius: 7px;
+}
+.cmark {
+	color: #F9C306;
+}
+.hold_key{
+	width: 73%;
+	font-family: 'Jost';
+	font-style: normal;
+	font-weight: 400;
+	font-size: 18px;
+	line-height: 138.5%;
+	/* or 25px */
+	margin: 0;
+	text-transform: capitalize;
+
+	color: rgba(255, 255, 255, 0.75);
+}
+.hold500kata,
+.takeru,
+.takesword {
+	font-family: 'Jost';
+	font-style: italic;
+	font-weight: 600;
+	font-size: 19px;
+	line-height: 118.5%;
+	text-transform: capitalize;
+	color: #FFFFFF;
+	background: #191D23;
+	border-radius: 8px;
+	padding: 20px;
+	width: 71%;
+	display: flex;
+	margin: 10px 0;
+	align-items: center;
+	cursor: pointer;
+}
+.hold500kata::after {
+	content: "";
+	position: absolute;
+	width: 20%;
+	height: 65px;
+	margin-top: 1px;
+	margin-left: 10px;
+	background: url(../img/images/coins.png);
+	background-repeat: no-repeat;
+	right: 22%;
+}
+.hold500kata h3,
+.takeru h3,
+.takesword h3{
+	color: #FFFFFF;
+	margin: 0;
+}
+.buy_here {
+	width: 71%;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+}
+.buy_here img {
+	height: 18px;
+}
+.buy_here p {
+	background: #191D23;
+	border-radius: 16px;
+	padding: 5px 10px;
+	font-family: 'Jost';
+	font-style: normal;
+	font-weight: 500;
+	font-size: 10px;
+	line-height: 118.5%;
+	text-transform: capitalize;
+	color: #F9C306;
+	margin: 0;
+	position: absolute;
+	right: 30%;
+}
+.takeru{
+	padding: 10px;
+}
+.takeru h3 {
+	padding-right: 35%;
+	line-height: 36px;
+}
+
+.takeru::after {
+	content: "";
+	position: absolute;
+	width: 30%;
+	height: 90px;
+	margin-top: 22px;
+	margin-left: 0px;
+	background: url(../img/images/nfts.png);
+	background-repeat: no-repeat;
+	right: 25%;
+}
+.takesword {
+
+}
+.takesword h3 {
+	font-family: 'Jost';
+	font-style: italic;
+	font-weight: 500;
+	font-size: 16px;
+	line-height: 145.5%;
+	text-transform: capitalize;
+	color: #FFFFFF;
+	padding-right: 25%;
+}
+.takesword::after {
+	content: "";
+	position: absolute;
+	width: 30%;
+	height: 95px;
+	margin-top: 22px;
+	margin-left: 0px;
+	background: url(../img/images/Ap.png);
+	background-repeat: no-repeat;
+	right: 15%;
+}
+.mt-15{
+	margin-top: 15px !important;
+}
+.hero_list {
+	position: relative;
+	width: 70%;
+	padding: 25px 25px 0 0;
+}
+.hero_list ul li {
+	background: #12151B;
+	border-radius: 7px;
+	float: left;
+	font-family: 'Jost';
+	font-style: normal;
+	font-weight: 400;
+	font-size: 18px;
+	line-height: 118.5%;
+	text-transform: capitalize;
+	padding: 5px 10px;
+	margin-right: 15px;
+	margin-bottom: 15px;
+	color: #fff;
+	transition: all 500ms ease;
+}
+.hero_list ul li span{
+	color: #F9C306;
+}
+.hero_list ul li:hover{
+	background: #F9C306;
+	color: #12151B;
+}
+.hero_list ul li:hover span{
+	color: #12151B;
+}
+
+		/* Extra css */
+
+.newplay_area {
+	text-align: center;
+}
+
+.newplay_area .download-now,
+.newplay_area .server_content h6 {
+	color: #fff;
+}
+
+.newplay_area .server_open,
+.newplay_area .download-btn-wrap {
+	display: flex;
+	justify-content: center;
 }

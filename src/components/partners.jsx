@@ -128,7 +128,7 @@ function Partners() {
                             </div>
                         </div>
 
-                        <div className="single-thumb">
+                        {/* <div className="single-thumb">
                             <a target="_blank" rel="noreferrer" className='music_img' href="https://www.instagram.com/souljaboy/"><img src="assets/img/team/team_member05.png" alt="" /></a>
                             <div className="team-content text-center pt-20">
                                 <h2 className="title">Souljaboy</h2>
@@ -137,7 +137,7 @@ function Partners() {
                                 <a target="_blank" rel="noreferrer" href="https://www.youtube.com/channel/UCbpqhOEGlI-1lS4GfAeV2vA"><i className="fa-brands fa-youtube"></i></a>
                                 <a target="_blank" rel="noreferrer" href="https://www.instagram.com/souljaboy/"><i className="fa-brands fa-instagram-square"></i></a>
                             </div>
-                        </div>
+                        </div> */}
 
                     </div>
                 </div>

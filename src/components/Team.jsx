@@ -61,7 +61,7 @@ const Team = () =>{
                                     <p>Yezdan Nas is an entrepreneur and businessman with +10 years experience as a managing director in the industry. +2 years experience as a Key Account Manager at one of the largest personnel service providers in the field of engineering for the automotive industry.
                                         Entered the crypto space in 2020. Since 2021 working as Chief Human Resources Officer and Marketing Manager at Katana Inu.
                                         Skilled in project management, recruitment & marketing.
-                                        As a core team member and Co-founder, Katana Inu is a life project.</p>
+                                        </p>
                                     <div className="team-social">
                                         <a href="https://twitter.com/yezdan2117?s=11&t=tq8zUbCArnw5pSqCTGBn3g" target="_blank" rel="noreferrer"><i className="fa-brands fa-twitter"></i></a>
                                         <a href="https://www.linkedin.com/in/yezdan-nas-25b637221/" target="_blank" rel="noreferrer"><i className="fa-brands fa-linkedin-in"></i></a>

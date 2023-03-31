@@ -52,7 +52,7 @@ const Footer = () =>{
                     <h5 className="fw-title">need help?</h5>
                     <ul className="footer-menu">
                     <li><a href="# ">Contact Us</a></li>
-                    <li><a href="https://www.discord.gg/katanainu" target="_blank" rel="noreferrer">Discord</a></li>
+                    <li><a href="https://discord.com/invite/katanainu" target="_blank" rel="noreferrer">Discord</a></li>
                     <li><a href="https://medium.com/@katanainu/katana-inu-a-great-play2earn-battle-royale-pc-game-with-nft-marketplace-on-layer-2-a56f9bbcce79" target="_blank" rel="noreferrer">Medium</a></li>
                     <li><a href="https://www.reddit.com/r/katanainu" target="_blank" rel="noreferrer">Reddit</a></li>
                     <li><a href="# ">ChainVision Games</a></li>
