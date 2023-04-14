@@ -74,7 +74,7 @@ const Team = () =>{
                     <div class="col-xl-12">
                         <div class="team-item mb-30">
                             <div class="team-content text-center">
-                                <h2 class="title mark_color">AND <span>10+ </span> MORE TEAM MEMBERS AND <span>35 </span> GAME DEVELOPER</h2>
+                                <h2 class="title mark_color">AND <span>10+ </span> MORE TEAM MEMBERS AND <span>35 </span> GAME DEVELOPER +10 blockchain/backend developers</h2>
                             </div>
                         </div>
                     </div>

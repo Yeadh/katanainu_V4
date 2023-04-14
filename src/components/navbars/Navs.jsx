@@ -46,7 +46,10 @@ const Navs  = () => {
                     <li className="menu-item-has-children">
                         <a href="# "><span>Documents</span></a>
                         <ul className="submenu">
+                            <li><a href="https://katanainu.gitbook.io/2/" target="_blank" rel="noreferrer">NFT Paper</a></li>
+
                             <li><a href="assets/resources/katanainuwhitepaper.pdf" target="_blank" rel="noreferrer">Whitepaper</a></li>
+
                             <li><a href="#roadmap">Roadmap</a></li>
                             <li><a href="assets/resources/Roadmap1.png" target="_blank" rel="noreferrer">Roadmap 2</a></li>
                             <li><a href="assets/resources/katanainutokenomics.pdf" target="_blank" rel="noreferrer">Tokenomics</a></li>
@@ -59,7 +62,7 @@ const Navs  = () => {
                     <li className="menu-item-has-children">
                         <a href="# "><span>Game</span></a>
                         <ul className="submenu">
-                            <li><a href="# ">Play Katana Inu</a></li>
+                            <li><a href="https://play.katanainu.com/">Play Katana Inu</a></li>
                             <li><a href="# ">How the game works?</a></li>
                         </ul>
                     </li>
@@ -70,6 +73,9 @@ const Navs  = () => {
                         <a href="# "><span>Social Media</span></a>
                         <ul className="submenu">
                             <li><a href="https://twitter.com/katanainu" target="_blank" rel="noreferrer">Twitter</a></li>
+
+                            <li><a href="https://twitter.com/kainu_io" target="_blank" rel="noreferrer">Twitter Marketplace</a></li>
+
                             <li><a href="https://instagram.com/katanainu" target="_blank" rel="noreferrer">Instagram</a></li>
                             <li><a href="https://www.facebook.com/Katanainu-104918325117822" target="_blank" rel="noreferrer">Facebook</a></li>
                             <li><a href="https://www.discord.gg/katanainu" target="_blank" rel="noreferrer">Discord</a></li>
@@ -78,7 +84,7 @@ const Navs  = () => {
                         </ul>
                     </li>
                     <li>
-                        <a href="https://docs.google.com/forms/d/e/1FAIpQLSeKIiYSpqNiBotOqkYZMUKqKnizt2_Xm1cLFjkyBH_CcpX3hg/viewform" target="_blank" rel="noreferrer">PLAY</a>
+                        <a href="https://play.katanainu.com/" target="_blank" rel="noreferrer">PLAY</a>
                     </li>
                     <li>
                         <NavLink to="/ranking" className={({ isActive }) => isActive ? 'active' : ''}>Ranking</NavLink>

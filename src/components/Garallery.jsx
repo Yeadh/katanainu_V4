@@ -143,16 +143,46 @@ const Gallery = () =>{
                         </div>
                         </div>
                         <div className="col">
-                        <div className="gallery-items">
-                            <div className="gallery-thumb">
-                            <img src="assets/img/trailers/trailer01.png" alt="img" />
-                                    <a href="https://www.youtube.com/watch?v=9c7pDf-WFAk" className="popup-video"><i className="fas fa-play" /></a>
-                            </div>
-                            <div className="gallery-content">
-                            <h3 className="title">Gameplay trailer</h3>
+                            <div className="gallery-items">
+                                <div className="gallery-thumb">
+                                <img src="assets/img/trailers/trailer03.png" alt="img" />
+                                        <a href="https://www.youtube.com/watch?v=E694jJeE_EE" className="popup-video"><i className="fas fa-play" /></a>
+                                </div>
+                                <div className="gallery-content">
+                                <h3 className="title">Gameplay trailer</h3>
+                                </div>
                             </div>
                         </div>
+                        <div className="col">
+                            <div className="gallery-items">
+                                <div className="gallery-thumb">
+                                <img src="assets/img/trailers/trailer01.png" alt="img" />
+                                        <a href="https://www.youtube.com/watch?v=9c7pDf-WFAk" className="popup-video"><i className="fas fa-play" /></a>
+                                </div>
+                                <div className="gallery-content">
+                                <h3 className="title">Gameplay trailer</h3>
+                                </div>
+                            </div>
                         </div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
                         <div className="col">
                         <div className="gallery-items">
                             <div className="gallery-thumb">

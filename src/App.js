@@ -18,6 +18,7 @@ import BackStory from "./pages/facsummary"
 import BeneFits from "./pages/benefits"
 import Ranking from "./pages/ranking"
 import TheGame from "./pages/the-game"
+import PartnerPage from "./pages/partners"
 
 function App() {
   return (
@@ -33,6 +34,7 @@ function App() {
           <Route path="/facsummary" element={<BackStory /> }/>
           <Route path="/benefits" element={<BeneFits />} />
           <Route path="/ranking" element={<Ranking />} />
+          <Route path="/partners" element={<PartnerPage />} />
       </Routers>
     </>
   );

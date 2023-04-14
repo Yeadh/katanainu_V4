@@ -345,11 +345,7 @@ function Partners() {
                         </div>
                     </div>
 
-                    <div className="col-xl-2 col-lg-2 mb-30">
-                        <div className="nft_market annaounce img text-center">
-                            <img src="assets/img/announcement/emblem+white.png" alt="" />
-                        </div>
-                    </div>
+
 
                     <div className="col-xl-2 col-lg-2 mb-30">
                         <div className="nft_market annaounce img text-center">
@@ -365,12 +361,6 @@ function Partners() {
 
                     <div className="col-xl-2 col-lg-2 mb-30">
                         <div className="nft_market annaounce img text-center">
-                            <img src="assets/img/announcement/luxpad.png" alt="" />
-                        </div>
-                    </div>
-
-                    <div className="col-xl-2 col-lg-2 mb-30">
-                        <div className="nft_market annaounce img text-center">
                             <img src="assets/img/announcement/cyber.png" alt="" />
                         </div>
                     </div>
@@ -380,6 +370,38 @@ function Partners() {
                             <img src="assets/img/partners/metaverser.png" alt="" />
                         </div>
                     </div>
+
+                    <div className="team-btn text-center mt-40">
+                        <a href="/partners" className="btn">view all</a>
+                    </div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
                 </div>
 
