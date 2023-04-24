@@ -3844,3 +3844,13 @@ footer {
 .make_small img {
 	width: 45% !important;
 }
+.champion_nft {
+	border-radius: 12px;
+	background-image: -moz-linear-gradient(4deg, rgb(17, 17, 21) 0%, rgb(17, 17, 21) 100%);
+	background-image: -webkit-linear-gradient(4deg, rgb(17, 17, 21) 0%, rgb(17, 17, 21) 100%);
+	background-image: -ms-linear-gradient(4deg, rgb(17, 17, 21) 0%, rgb(17, 17, 21) 100%);
+	width: 80%;
+	z-index: 3;
+	margin: auto;
+}
+.ml-20{margin-left: 20px;}

@@ -11,7 +11,7 @@ import Coins from "../components/Coins"
 import Ecosystem from "../components/Ecosystem"
 import Roadmap from "../components/Roadmap"
 // import Tokenomics from "../components/Tokenomics"
-import Weapons from "../components/Weapons"
+//import Weapons from "../components/Weapons"
 // import Ecosystem2 from "../components/Ecosystem2"
 // import MainSlider from "../components/MainSlider"
 import Partners from "../components/partners"
@@ -46,7 +46,7 @@ const Home = () =>{
                     <Ecosystem/>
                     <Roadmap/>
                     {/* <Tokenomics/> */}
-                    <Weapons/>
+                    {/* <Weapons/> */}
                     {/* <Ecosystem2/> */}
                     <Partners/>
                     <PurchaseArea/>
