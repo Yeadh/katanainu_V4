@@ -1466,7 +1466,6 @@ label {
 	width: 100%;
 	height: 100%;
 }
-
 .action-content .title {
 	font-size: 42px;
 	font-weight: 700;
@@ -2921,7 +2920,7 @@ footer {
 	position: absolute;
 	width: 100%;
 	left: 0;
-	bottom: 0;
+	top: 50%;
 	text-align: center;
 	padding-bottom: 5%;
 }
@@ -3222,11 +3221,22 @@ footer {
 	margin-top: -35px;
 }
 .parallax-area{
-	padding: 110px 0 120px;
+	/* padding: 110px 0 120px; */
 	position: relative;
 	overflow: hidden;
 	z-index: 1;
-	height: 78vh;
+	height: 110vh;
+	margin-bottom: -133px;
+}
+.parallax-area iframe {
+	position: absolute;
+	top: 50%;
+	left: 50%;
+	min-width: 100%;
+	min-height: 100%;
+	width: auto;
+	height: auto;
+	transform: translate(-50%, -50%);
 }
 .cascade-slider_item .text {
 	text-align: center;
@@ -3421,10 +3431,7 @@ footer {
 .pr-0{
 	padding-right: 0;
 }
-.about_video iframe {
-	width: 95%;
-	height: 100%;
-}
+
 .download-btn-wrap .btn {
 	padding: 20px 35px 20px 33px;
 	border-radius: 10px;
@@ -3472,9 +3479,7 @@ footer {
 	text-align: center;
 	margin-bottom: 100px;
 }
-.exchange-cal iframe {
-	width: 100%;
-}
+
 .hide_text{
 	position: relative;
 	height: 55px;
@@ -3854,3 +3859,111 @@ footer {
 	margin: auto;
 }
 .ml-20{margin-left: 20px;}
+.mintgo,
+.nft_title span,
+.c_rate span{
+	color: #ffb42f;
+}
+.mission_gif img {
+	max-width: 100%;
+		border-radius: 5%;
+}
+h2.title.nft_title {
+	font-size: 28px;
+}
+.mission-content p {
+	color: #fff;
+		margin: 0;
+}
+.c_rate {
+	color: #e0e0e0;
+	font-size: 18px;
+}
+.banner-btn {
+	display: flex;
+	align-items: center;
+	justify-content: center;
+}
+.banner-btn .btnd {
+	background: rgba(0, 0, 0, 0.7);
+	border: 0.5px solid rgba(249, 195, 6, 0.5);
+	backdrop-filter: blur(11.5px);
+	border-radius: 50px;
+	margin-right: 20px;
+	margin-bottom: 30px;
+	font-family: 'Jost';
+	font-style: normal;
+	font-weight: 700;
+	font-size: 16px;
+	line-height: 40px;
+	text-transform: uppercase;
+	color: #FFFFFF;
+	padding: 10px 25px;
+	transition: all 0.3s ease 0s;
+}
+.btnd:before {
+	position: absolute;
+	content: '';
+	width: 0%;
+	height: 100%;
+	border-radius: 50px;
+	left: 0;
+	top: 0;
+	z-index: -1;
+	background: #f5a238;
+	transition: all 500ms ease;
+	color: #ffffff;
+}
+
+.btnd:hover:before {
+	width: 100%;
+}
+/**New banner**/
+	.banner_new23 {
+		position: relative;
+		width: 100%;
+		height: 110vh;
+		overflow: hidden;
+	}
+
+	.banner_new23 iframe {
+		position: absolute;
+		top: 0;
+		left: 0;
+		width: 100%;
+		height: 100%;
+	}
+
+	.banner_new23 .content {
+		position: absolute;
+		top: 60%;
+		left: 50%;
+		transform: translate(-50%, -50%);
+		text-align: center;
+		color: #fff;
+	}
+
+	.banner_new23 .content h1 {
+		font-size: 3em;
+		margin: 0;
+		line-height: 1.2em;
+	}
+
+	.banner_new23 .content p {
+		font-size: 1.2em;
+		margin: 1em 0;
+	}
+
+	.banner_new23 .content button {
+		padding: 1em 2em;
+		border: none;
+		background-color: #fff;
+		color: #000;
+		font-size: 1.2em;
+		cursor: pointer;
+	}
+
+	.banner_new23 .content button:hover {
+		background-color: #000;
+		color: #fff;
+	}

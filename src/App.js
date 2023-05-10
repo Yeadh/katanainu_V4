@@ -11,6 +11,7 @@ import "./css/override.css"
 import Home from "./pages/home"
 import TeamPage from "./pages/team"
 import AboutPage from "./pages/about"
+import MintPage from "./pages/mint"
 import FaqPage from "./pages/faq"
 import ProblemSoluionPage from "./pages/problem-solution"
 import LoreStory from "./pages/lorestory"
@@ -27,6 +28,7 @@ function App() {
           <Route path="/" element={ <Home/> }/>
           <Route path="/team" element={ <TeamPage/> }/>
           <Route path="/about" element={ <AboutPage/> }/>
+          <Route path="/mint" element={ <MintPage/> }/>
           <Route path="/the-game" element={ <TheGame/> }/>
           <Route path="/faq" element={ <FaqPage/> }/>
           <Route path="/problem-solution" element={ <ProblemSoluionPage/> }/>

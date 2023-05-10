@@ -68,7 +68,8 @@ class ParallaxBg extends React.Component {
 
         <section className="parallax-area">
             <div className="banner-bg">
-                <video src="assets/img/banner/video.mp4" autoPlay muted loop></video>
+                {/* <video src="assets/img/banner/video.mp4" autoPlay muted loop></video> */}
+                <iframe src="https://player.vimeo.com/video/817952198?h=22f03b0a64&amp;muted=1&amp;autoplay=1&amp;loop=1&amp;transparent=0&amp;background=1&amp;app_id=122963" width="426" height="240" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen="" title="Animation Showreel" data-ready="true" className="elementor-background-video-embed"></iframe>
             </div>
             <div className="container">
                 <div className="row justify-content-center">

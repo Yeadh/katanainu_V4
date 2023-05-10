@@ -1,5 +1,5 @@
 import ParallaxBg from "../components/parallax"
-// import Banner from "../components/Banner"
+ //import Banner from "../components/Banner"
 import Brands from "../components/Brands"
 import MainLayout from "../layouts/MainLayout"
 import BackLayout from "../layouts/BackLayout"
@@ -33,6 +33,7 @@ const Home = () =>{
     return (
         <>
             <MainLayout>
+                {/* <Banner /> */}
                 <ParallaxBg />
                 {/* <Banner/> */}
                 <BackLayout>

@@ -1,4 +1,5 @@
 const Footer = () =>{
+
     return (
         <>
         {/* footer-start */}
@@ -25,10 +26,10 @@ const Footer = () =>{
                 <div className="widget">
                     <h5 className="fw-title">Don't miss our latest news</h5>
                     <div className="footer-newsletter">
-                    <form action="# ">
-                        <input type="email" placeholder="Email Address" />
-                        <button>Get News</button>
-                    </form>
+                        <form name="submit-to-google-sheet">
+                            <input type="email" name="Email" placeholder="Email Address" />
+                            <button type="submit">Subscribe!</button>
+                        </form>
                     </div>
                     <div className="footer-desc">
                     <h6 className="desc-title">Disclaimer</h6>
