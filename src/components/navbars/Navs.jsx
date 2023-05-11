@@ -35,8 +35,8 @@ const Navs  = () => {
                     <li className="menu-item-has-children">
                         <a href="# "><span>Buy NFTs</span></a>
                         <ul className="submenu">
-                                <li><a href="# ">To Mint Page <span>(Coming Soon)</span></a></li>
-                            <li><a href="# ">To Marketplace</a></li>
+                                <li><a target="_blank" rel="noreferrer" href="https://mint.katanainu.com/">Mint NFT</a></li>
+                            <li><a target="_blank" rel="noreferrer" href="https://kainu.io/">To Marketplace</a></li>
                             <li><a href="# ">Characters</a></li>
                             <li><a href="# ">Weapons</a></li>
                             <li><a href="# ">Assets</a></li>

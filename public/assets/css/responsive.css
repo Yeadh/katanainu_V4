@@ -3,20 +3,32 @@
 	.exchange-cal iframe {
 		width: 512px;
 	}
+	.parallax-area {
+		height: 80vh;
+	}
+
+	.parallax-area iframe {
+		top: 45%;
+		height: 120vh;
+	}
+}
+@media (max-width: 2400px) {
+	.parallax-area {
+		height: 90vh;
+	}
+
+	.parallax-area iframe {
+		top: 45%;
+		height: 120vh;
+	}
 }
 @media (max-width: 1800px) {
 	.parallax-area {
 		height: 100vh;
 	}
 	.parallax-area iframe {
-		position: absolute;
-		top: 42%;
-		left: 50%;
-		min-width: 100%;
-		min-height: 100%;
-		width: 100%;
+		top: 40%;
 		height: 120vh;
-		transform: translate(-50%, -50%);
 	}
 	.parallax-content {
 		top: 35%;
@@ -45,51 +57,37 @@
 
 }
 
-
+@media (max-width: 1600px) {
+	.parallax-area {
+		height: 85vh;
+	}
+}
 /* Extra large devices (large desktops, 1800px and up) */
 @media (max-width: 1500px) {
 	.buy-oct-now {
-
 		bottom: 80px;
-
 	}
-
 	.player-name {
-
 		bottom: 20%;
-
 	}
-
 	.main-slider .slick-arrow {
-
 		bottom: 75px;
-
 	}
 	.team-thumbnail img {
-
 		top: -28px!important;
-
 	}
-
 	.team-card:hover .team-thumbnail img {
 		top: -47px!important;
-
 	}
-
 	.advisor-area .team-thumbnail img {
 		top: 25px!important;
 	}
-
 	.advisor-area .team-card:hover .team-thumbnail img {
 		top: 6px!important;
 	}
-
 	.advisor-area .team-card .team-content h3 {
-
 		font-size: 18px!important;
-
 	}
-
 	.custom-container {
 		max-width: 1240px;
 	}
@@ -210,6 +208,11 @@
 
 	}
 
+}
+@media (max-width: 1440px) {
+	.parallax-area {
+		height: 100vh;
+	}
 }
 @media (max-width: 1398px) {
 	.new_title {
@@ -533,6 +536,9 @@
 
 
 @media (max-width:1024px){
+	.parallax-area {
+		height: 100vh;
+	}
 	.join_4_key a {
 		font-size: 16px;
 	}
@@ -1036,6 +1042,10 @@
 	}
 }
 @media only screen and (max-width:912px) {
+	.parallax-area iframe {
+		top: 44%;
+		height: 120vh;
+	}
 	.server_open,
 	.need_key {
 		justify-content: center;
@@ -1228,6 +1238,10 @@
 	}
 	.parallax-area {
 		height: 50vh;
+	}
+	.parallax-area iframe {
+		top: 45%;
+		height: 120vh;
 	}
 	.pack_area {
 		margin-top: 75px;
@@ -2131,7 +2145,7 @@
 		width: 130vh;
 		transform: translate(-50%, -50%);
 		position: absolute;
-		top: 16%;
+		top: 35%;
 	}
 	.parallax-content {
 		padding: 0 15% 5% 15%;
@@ -2534,7 +2548,7 @@
 		min-height: 500px !important;
 	}
 	.parallax-area {
-		height: 70vh;
+		height: 75vh;
 	}
 	.download-img .about-video {
 		height: 183px;
