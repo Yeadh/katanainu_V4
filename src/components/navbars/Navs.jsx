@@ -32,6 +32,7 @@ const Navs  = () => {
                             </li>
                         </ul>
                     </li>
+
                     <li className="menu-item-has-children">
                         <a href="# "><span>Buy NFTs</span></a>
                         <ul className="submenu">
@@ -88,6 +89,9 @@ const Navs  = () => {
                     </li>
                     <li>
                         <NavLink to="/ranking" className={({ isActive }) => isActive ? 'active' : ''}>Ranking</NavLink>
+                    </li>
+                    <li>
+                        <NavLink to="/blog" className={({ isActive }) => isActive ? 'active' : ''}>News</NavLink>
                     </li>
                 </ul>
                 </div>

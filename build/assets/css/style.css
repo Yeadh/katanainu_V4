@@ -3967,3 +3967,53 @@ h2.title.nft_title {
 		background-color: #000;
 		color: #fff;
 	}
+
+	/* Blog area */
+	.blog-featured span {
+		background-image: -moz-linear-gradient(0deg, rgb(255, 234, 196) 0%, rgb(255, 180, 47) 100%);
+		background-image: -webkit-linear-gradient(0deg, rgb(255, 234, 196) 0%, rgb(255, 180, 47) 100%);
+		background-image: -ms-linear-gradient(0deg, rgb(255, 234, 196) 0%, rgb(255, 180, 47) 100%);
+		background-image: linear-gradient(0deg, rgb(255, 234, 196) 0%, rgb(255, 180, 47) 100%);
+		-webkit-text-fill-color: transparent;
+		background-clip: text;
+		-webkit-background-clip: text;
+		display: inline-flex;
+		margin-bottom: 10px;
+	}
+	.blog-fimg img {
+		border-radius: 8px;
+	}
+	.blog-fcontent span {
+		background-image: -moz-linear-gradient(0deg, rgb(255, 234, 196) 0%, rgb(255, 180, 47) 100%);
+		background-image: -webkit-linear-gradient(0deg, rgb(255, 234, 196) 0%, rgb(255, 180, 47) 100%);
+		background-image: -ms-linear-gradient(0deg, rgb(255, 234, 196) 0%, rgb(255, 180, 47) 100%);
+		background-image: linear-gradient(0deg, rgb(255, 234, 196) 0%, rgb(255, 180, 47) 100%);
+		-webkit-text-fill-color: transparent;
+		background-clip: text;
+		-webkit-background-clip: text;
+		display: inline-flex;
+		margin-bottom: 10px;
+	}
+	.blog-item .blog-fcontent h1 {
+		font-size: 24px;
+		line-height: 30px;
+	}
+	.blog-item img {
+		height: 270px;
+	}
+	.blog-item {
+		text-align: center;
+	}
+	.blog-single h3 {
+		color: #fff;
+	}
+	.blog-single span {
+		margin: 0 10px 0px 0;
+		font-weight: 600;
+	}
+	.blog-single ul li {
+		padding: 5px 0;
+	}
+	.blog-single img {
+		width: 100%;
+	}

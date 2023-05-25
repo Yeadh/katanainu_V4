@@ -71,13 +71,13 @@ class Downloads extends React.Component {
                   <h4 className="new_title_bold">closed beta now!</h4>
                   <h2 className="download-now">Download Now : </h2>
                   <div className="download-btn-wrap">
-                    <a target="_blank" rel="noreferrer" href="https://nx37610.your-storageshare.de/s/tgdCdQBxXPkQoG6">
+                    <a target="_blank" rel="noreferrer" href="https://nx37610.your-storageshare.de/s/p8x4CiT9FFtTbdw/download/katana-inu-launcher_v2.0.2.zip">
                       <img src="assets/img/images/download_btn.png" alt="" />
                     </a>
-                    <a target="_blank" rel="noreferrer" href="https://nx37610.your-storageshare.de/s/tgdCdQBxXPkQoG6">
+                    <a target="_blank" rel="noreferrer" href="https://nx37610.your-storageshare.de/s/p8x4CiT9FFtTbdw/download/katana-inu-launcher_v2.0.2.zip">
                       <img src="assets/img/images/play.png" alt="" />
                     </a>
-                    <a className='white' target="_blank" rel="noreferrer" href="https://nx37610.your-storageshare.de/s/tgdCdQBxXPkQoG6">
+                    <a className='white' target="_blank" rel="noreferrer" href="https://nx37610.your-storageshare.de/s/p8x4CiT9FFtTbdw/download/katana-inu-launcher_v2.0.2.zip">
                       Download Directly
                     </a>
                     {/* <a href="https://docs.google.com/forms/d/e/1FAIpQLSeKIiYSpqNiBotOqkYZMUKqKnizt2_Xm1cLFjkyBH_CcpX3hg/viewform" target="_blank" rel="noreferrer" class="btn">Request a key</a> */}
@@ -167,21 +167,6 @@ class Downloads extends React.Component {
                             </p>
                         </Modal.Body>
                     </Modal>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
             </div>
             <div className="row align-items-end justify-content-center">
 
@@ -261,13 +246,13 @@ class Downloads extends React.Component {
                 <div className="newplay_area mt-50">
                   <h2 className="download-now">Download Now : </h2>
                   <div className="download-btn-wrap">
-                    <a target="_blank" rel="noreferrer" href="https://nx37610.your-storageshare.de/s/tgdCdQBxXPkQoG6">
+                    <a target="_blank" rel="noreferrer" href="https://nx37610.your-storageshare.de/s/p8x4CiT9FFtTbdw/download/katana-inu-launcher_v2.0.2.zip">
                       <img src="assets/img/images/download_btn.png" alt="" />
                     </a>
-                    <a target="_blank" rel="noreferrer" href="https://nx37610.your-storageshare.de/s/tgdCdQBxXPkQoG6">
+                    <a target="_blank" rel="noreferrer" href="https://nx37610.your-storageshare.de/s/p8x4CiT9FFtTbdw/download/katana-inu-launcher_v2.0.2.zip">
                       <img src="assets/img/images/play.png" alt="" />
                     </a>
-                    <a className='white' target="_blank" rel="noreferrer" href="https://nx37610.your-storageshare.de/s/tgdCdQBxXPkQoG6">
+                    <a className='white' target="_blank" rel="noreferrer" href="https://nx37610.your-storageshare.de/s/p8x4CiT9FFtTbdw/download/katana-inu-launcher_v2.0.2.zip">
                       Download Directly
                     </a>
                     {/* <a href="https://docs.google.com/forms/d/e/1FAIpQLSeKIiYSpqNiBotOqkYZMUKqKnizt2_Xm1cLFjkyBH_CcpX3hg/viewform" target="_blank" rel="noreferrer" class="btn">Request a key</a> */}

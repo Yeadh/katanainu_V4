@@ -20,6 +20,11 @@ import BeneFits from "./pages/benefits"
 import Ranking from "./pages/ranking"
 import TheGame from "./pages/the-game"
 import PartnerPage from "./pages/partners"
+import BlogPage from "./pages/blog"
+import BlogPageOne from "./pages/play-to-earn"
+import BlogPageTwo from "./pages/best-play-to-earn-game-with-nft"
+import BlogPageThree from "./pages/what-is-the-height-earning-nft"
+import BlogPageFour from "./pages/what-is-the-number-of-nft-game"
 
 function App() {
   return (
@@ -37,6 +42,11 @@ function App() {
           <Route path="/benefits" element={<BeneFits />} />
           <Route path="/ranking" element={<Ranking />} />
           <Route path="/partners" element={<PartnerPage />} />
+          <Route path="/blog" element={<BlogPage />} />
+          <Route path="/play-to-earn" element={<BlogPageOne />} />
+          <Route path="/best-play-to-earn-game-with-nft" element={<BlogPageTwo />} />
+          <Route path="/what-is-the-height-earning-nft" element={<BlogPageThree />} />
+          <Route path="/what-is-the-number-of-nft-game" element={<BlogPageFour />} />
       </Routers>
     </>
   );
