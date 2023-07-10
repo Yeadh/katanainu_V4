@@ -1,7 +1,7 @@
 import React from "react"
 import Slider from "react-slick"
 import TabNav from "./tabsnav/TabNav"
-import ModelViewer from "./3dmodel/ModelViewer"
+//import ModelViewer from "./3dmodel/ModelViewer"
 
 const Prev = (props) =>{
     const { className, onClick } = props
@@ -30,18 +30,7 @@ const Ecosystem = () =>{
 	    nextArrow: <Next/>
     }
 
-    const dimondSlider = {
-        infinite:false,
-        speed:500,
-        arrows:false,
-        dots:true,
-        // fade:true,
-        className:'inner-weapon-slider dimond-slider',
-        slidesToShow:1,
-        slidesToScroll:1,
-        vertical: true,
-        verticalSwiping: true
-    }
+
 
     const tabs = [
         { name: "Genesis Takeru", id: 1},
@@ -199,35 +188,20 @@ const Ecosystem = () =>{
                         <div className="eco-item col">
                             <div className="row">
                                 <div className="col-lg-6 col-md-12 col-sm-12">
-                                    <Slider {...dimondSlider}>
-                                        <div className="nft-item">
-                                            <ModelViewer src="assets/img/weapons3d/axe2.glb"/>
+                                    <div className="slider-nft">
+                                        <div className="nft-slider weapons_slide">
+                                            <div className="nft-item next">
+                                                <img src="assets/img/weapons/dadao1.png" alt="" />
+                                            </div>
+                                            <div className="nft-item prev">
+                                                <img src="assets/img/weapons/axe1.png" alt="" />
+                                            </div>
+                                            <div className="nft-item active">
+                                                <img src="assets/img/weapons/guand2.png" alt="" />
+                                            </div>
+
                                         </div>
-                                        <div className="nft-item">
-                                            <ModelViewer src="assets/img/weapons3d/axe4.glb"/>
-                                        </div>
-                                        <div className="nft-item">
-                                            <ModelViewer src="assets/img/weapons3d/hlbrd2.glb"/>
-                                        </div>
-                                        <div className="nft-item">
-                                            <ModelViewer src="assets/img/weapons3d/sw10.glb"/>
-                                        </div>
-                                        <div className="nft-item">
-                                            <ModelViewer src="assets/img/weapons3d/sw11.glb"/>
-                                        </div>
-                                        <div className="nft-item">
-                                            <ModelViewer src="assets/img/weapons3d/sw2.glb"/>
-                                        </div>
-                                        <div className="nft-item">
-                                            <ModelViewer src="assets/img/weapons3d/sw3.glb"/>
-                                        </div>
-                                        <div className="nft-item">
-                                            <ModelViewer src="assets/img/weapons3d/sw1.glb"/>
-                                        </div>
-                                        <div className="nft-item">
-                                            <ModelViewer src="assets/img/weapons3d/guand1.glb"/>
-                                        </div>
-                                    </Slider>
+                                    </div>
                                 </div>
                                 <div className="col-lg-6 col-md-12 col-sm-12">
                                     <div className="nfts-contents mt-140">
@@ -249,35 +223,20 @@ const Ecosystem = () =>{
                         <div className="eco-item col">
                             <div className="row">
                                 <div className="col-lg-6 col-md-12 col-sm-12">
-                                    <Slider {...dimondSlider}>
-                                        <div className="nft-item">
-                                            <ModelViewer src="assets/img/weapons3d/axe1.glb"/>
+                                    <div className="slider-nft">
+                                        <div className="nft-slider weapons_slide">
+                                            <div className="nft-item next">
+                                                <img src="assets/img/weapons/dadao1.png" alt="" />
+                                            </div>
+                                            <div className="nft-item prev">
+                                                <img src="assets/img/weapons/axe1.png" alt="" />
+                                            </div>
+                                            <div className="nft-item active">
+                                                <img src="assets/img/weapons/guand2.png" alt="" />
+                                            </div>
+
                                         </div>
-                                        <div className="nft-item">
-                                            <ModelViewer src="assets/img/weapons3d/axe3.glb"/>
-                                        </div>
-                                        <div className="nft-item">
-                                            <ModelViewer src="assets/img/weapons3d/hlbrd3.glb"/>
-                                        </div>
-                                        <div className="nft-item">
-                                            <ModelViewer src="assets/img/weapons3d/sw12.glb"/>
-                                        </div>
-                                        <div className="nft-item">
-                                            <ModelViewer src="assets/img/weapons3d/sw13.glb"/>
-                                        </div>
-                                        <div className="nft-item">
-                                            <ModelViewer src="assets/img/weapons3d/sw15.glb"/>
-                                        </div>
-                                        <div className="nft-item">
-                                            <ModelViewer src="assets/img/weapons3d/sw6.glb"/>
-                                        </div>
-                                        <div className="nft-item">
-                                            <ModelViewer src="assets/img/weapons3d/sw5.glb"/>
-                                        </div>
-                                        <div className="nft-item">
-                                            <ModelViewer src="assets/img/weapons3d/guand3.glb"/>
-                                        </div>
-                                    </Slider>
+                                    </div>
                                 </div>
                                 <div className="col-lg-6 col-md-12 col-sm-12">
                                     <div className="nfts-contents mt-170">

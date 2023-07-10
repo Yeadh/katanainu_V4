@@ -34,22 +34,23 @@ const Brands = () =>{
                 </div>
             </div>
             {/* brand-area-end */}
-            {/* <div className="market_cap">
+            <div className="market_cap mb-30">
                 <div className="container">
                     <div className="row justify-content-center">
                         <div className="col-md-6">
-                            <div className="market_fix supply text-center">
-                                <h1>Current Circulation Supply: <span> 14742255.55</span></h1>
+                            <div className="buy-coin-img text-center mission_gif">
+                                <img className="alltuchtopdown" src="assets/img/images/coin_shape.png" alt="" />
                             </div>
                         </div>
                         <div className="col-md-6">
-                            <div className="market_fix marcap text-center">
-                                <h1>Current MarketCap: <span></span></h1>
+                            <div className="buy-coin text-center">
+                                <h1>Buy <span>KATA Coin</span> Now</h1>
+                                <a href="https://pay.c14.money/?targetAssetIdLock=true&clientId=22aed5ca-f3fd-45a2-bd24-9e8b78c3842e&targetAssetId=e9acfbef-fbc7-41ce-9f01-6004c43d26a7" target="_blank" rel="noreferrer" class="btn">BUY KATA</a>
                             </div>
                         </div>
                     </div>
                 </div>
-            </div> */}
+            </div>
             <div className="market_cap">
                 <div className="container">
 
@@ -70,7 +71,7 @@ const Brands = () =>{
                                     </div>
                                     <div className="pack-main-content">
                                         <h3>2D NFT FORGING GEN 1</h3>
-                                        <h2>Dropping 10th May 2023.</h2>
+                                        <h2><a href="https://mint.katanainu.com/" target="_blank" rel="noreferrer">LIVE NOW.</a></h2>
                                         <p>Forge super rare NFTs with this collection for more join our Discord</p>
                                     </div>
                                     <div className="pack-btn-wrap ">

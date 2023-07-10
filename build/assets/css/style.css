@@ -4017,3 +4017,23 @@ h2.title.nft_title {
 	.blog-single img {
 		width: 100%;
 	}
+	.about-video.about_video iframe {
+		width: 100%;
+		height: 100%;
+	}
+	.buy-coin {
+		height: 100%;
+		display: flex;
+		flex-direction: column;
+		justify-content: center;
+		align-items: center;
+	}
+	.buy-coin h1 {
+		color: #fff;
+		text-transform: uppercase;
+		font-size: 34px;
+		padding-bottom: 10px;
+	}
+	.buy-coin span {
+		color: #f3a511;
+	}
