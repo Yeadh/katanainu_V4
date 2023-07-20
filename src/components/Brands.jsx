@@ -34,7 +34,7 @@ const Brands = () =>{
                 </div>
             </div>
             {/* brand-area-end */}
-            <div className="market_cap mb-30">
+            {/* <div className="market_cap mb-30">
                 <div className="container">
                     <div className="row justify-content-center">
                         <div className="col-md-6">
@@ -50,7 +50,7 @@ const Brands = () =>{
                         </div>
                     </div>
                 </div>
-            </div>
+            </div> */}
             <div className="market_cap">
                 <div className="container">
 

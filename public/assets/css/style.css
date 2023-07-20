@@ -4021,19 +4021,24 @@ h2.title.nft_title {
 		width: 100%;
 		height: 100%;
 	}
-	.buy-coin {
-		height: 100%;
+	.buy_credit {
+		position: fixed;
+		z-index: 9999;
+		top: 90%;
+		left: 3%;
 		display: flex;
-		flex-direction: column;
-		justify-content: center;
-		align-items: center;
+		background: transparent;
+		border: 0;
 	}
-	.buy-coin h1 {
-		color: #fff;
-		text-transform: uppercase;
-		font-size: 34px;
-		padding-bottom: 10px;
+
+	.buy_credit a{
+		margin-left: 55px;
+		margin-top: 22px;
+		font-size: 17px;
+		font-weight: 700;
 	}
-	.buy-coin span {
-		color: #f3a511;
+	.buy_credit img{
+		width: 100px;
+		left: -35px;
+		position: absolute;
 	}

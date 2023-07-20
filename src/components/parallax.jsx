@@ -101,6 +101,7 @@ class ParallaxBg extends React.Component {
                             <p><a className='btn d-block btn-secondary' href='https://www.probit.com/app/exchange/KATA-USDT' rel='noreferrer' target='_blank'>Probit</a></p>
                             <p><a className='btn d-block btn-secondary' href='https://www.digifinex.com/en-ww/trade/USDT/KATA' rel='noreferrer' target='_blank'>DIGIFINEX</a></p>
                             <p><a className='btn d-block btn-secondary' href='https://www.mexc.com/de-DE/exchange/KATA_USDT' rel='noreferrer' target='_blank'>MEXC</a></p>
+                            <p><a className='btn d-block btn-secondary' href='https://pay.c14.money/?targetAssetIdLock=true&clientId=22aed5ca-f3fd-45a2-bd24-9e8b78c3842e&targetAssetId=e9acfbef-fbc7-41ce-9f01-6004c43d26a7' rel='noreferrer' target='_blank'>Buy With Credit or master Card</a></p>
                         </Modal.Body>
                     </Modal>
                     <Modal

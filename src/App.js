@@ -25,6 +25,8 @@ import BlogPageOne from "./pages/play-to-earn"
 import BlogPageTwo from "./pages/best-play-to-earn-game-with-nft"
 import BlogPageThree from "./pages/what-is-the-height-earning-nft"
 import BlogPageFour from "./pages/what-is-the-number-of-nft-game"
+import EnaBarbicSingle from "./pages/ena-barbic"
+import RyanHornSingle from "./pages/ryan-horn"
 
 function App() {
   return (
@@ -47,6 +49,8 @@ function App() {
           <Route path="/best-play-to-earn-game-with-nft" element={<BlogPageTwo />} />
           <Route path="/what-is-the-height-earning-nft" element={<BlogPageThree />} />
           <Route path="/what-is-the-number-of-nft-game" element={<BlogPageFour />} />
+          <Route path="/ena-barbic" element={<EnaBarbicSingle />} />
+          <Route path="/ryan-horn" element={<RyanHornSingle />} />
       </Routers>
     </>
   );

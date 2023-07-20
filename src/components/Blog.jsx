@@ -25,7 +25,60 @@ const Blog = () =>{
                     </div>
                 </div>
                 <div className="row">
-                    <div className="col-md-4">
+
+
+                    <div className="col-md-4 mb-50">
+                        <div className="blog-item">
+                            <div className="blog-fimg">
+                                <a href="/ryan-horn"><img src="assets/img/blog/horn.jpg" alt="" /></a>
+                            </div>
+                            <div className="blog-fcontent">
+                                <h1 className="white-color mt-15 mb-15"><a href="/ryan-horn">Welcome Ryan Horn, ex-Binance NFT director and Web3 visionary</a></h1>
+                                <span>19 July 2023</span>
+                                <p>In the ever-evolving realm of Web3 and blockchain technology, visionary leaders play a crucial role in shaping the landscape and driving companies forward. Ryan Horn, ex-director of Binance NFTs and the esteemed founder of N3on, a venture accelerator company at the forefront of Web3 innovation,</p>
+                            </div>
+                        </div>
+                    </div>
+
+                    <div className="col-md-4 mb-50">
+                        <div className="blog-item">
+                            <div className="blog-fimg">
+                                <a href="/ena-barbic"><img src="assets/img/blog/ena.jpg" alt="" /></a>
+                            </div>
+                            <div className="blog-fcontent">
+                                <h1 className="white-color mt-15 mb-15"><a href="/ena-barbic">Welcome Ena Berbic, Ex-Illuvium CMO Joins Katana Inu as Markeing Consultant</a></h1>
+                                <span>19 July 2023</span>
+                                <p>We are excited to announce that Ena Berbic has joined Katana Inu as a Marketing Consultant. With a wealth of experience in the gaming industry, Ena brings a proven track record of success in product marketing, go-to-market strategies, and live operations campaigns.</p>
+                            </div>
+                        </div>
+                    </div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                    <div className="col-md-4 mb-50">
                         <div className="blog-item">
                             <div className="blog-fimg">
                                 <a href="/best-play-to-earn-game-with-nft"><img src="assets/img/blog/2.jpg" alt="" /></a>
