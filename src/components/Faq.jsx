@@ -2,14 +2,14 @@ import React from 'react';
 
 const Faq = () => {
     const data = [
-        { id: 1, title: "What is Katana Inu?", decscription: "A Deflationary Token on Ethereum with a PC-Game Interface and an Innovative NFT Ecosystem, with 4% Ethereum Reward to Holders"},
+        { id: 1, title: "What is Katana Inu?", decscription: "Katana Inu isn't merely another hopeful project in the making. We're striving to create an epic, top-tier gaming experience comparable to the likes of Fortnite or League of Legends,Check out the information below for a sneak peek of our project! Katana Inu is a (crypto, NFT) PC game with AAA graphics, limited NFTs and own marketplace. It is a third-person game that focuses on fast-paced sword and spell fighting.The goal is to attract web2 gamers to come over to web3 and compete with big games like Fortnite, PubG, League of Legends etc. The focus is Fun2Play. Having Rankings, collecting rare NFTs, participating in Tournaments and playing in eSports leagues."},
         //{ id: 2, title: "When do we get our ETH allowances?", decscription: "The Ethereum rewards are automatically credited to the holder’s wallet after about 12 hours."},
         { id: 3, title: "Who are the Team Members?", decscription: "A Group from Space that has come together - 15 Team Members from all over Europe, that has already accompanied many Projects together and is well-rehearsed."},
         { id: 4, title: "There is no Sell or Buy Limit", decscription: "There is no buy and sell limit you can buy and sell on dex and cex that $kata is available on."},
         //{ id: 5, title: "How much should the slippage fee be when buying/selling?", decscription: "The slippage fee is 10%. If this one doesn’t work out, feel free to try 11-15% slippage."},
         { id: 6, title: "Can we do Katana Staking?", decscription: "Yes. Staking is live here: https://staking.katanainu.com" },
         { id: 7, title: "Where can we see the whitepaper?", decscription: "https://katanainu.com/katanainuwhitepaper.pdf"},
-        { id:8, title:"When will the game be released?", decscription:"Beta version will be launched Q4 2022, and Full game Q1 2023."},
+        { id:8, title:"When will the game be released?", decscription:"The Closed beta was released 31. March 2023. Open Beta has no date yet, but probably Q4 2023 or Q1 2024. Full Release is not estimated yet"},
         { id:9, title:"Will the game launch on different platforms?", decscription:"Yes. After PC version is finished, we will start working on mobile version and other platformers like Playstation and Xbox."},
         { id:10, title:"What is an NFT?", decscription:"An NFT is a “Non-Fungible Token”. Here is a great glossary explaining what NFT's and other crypto terms mean: https://coinmarketcap.com/alexandria/glossary/non-fungible-token"},
         { id:11, title:"Where can players buy and sell NFTs?", decscription:"Buying & selling can be done on our marketplace, but there is also other possiblities like Opensea or Looksrare."},
@@ -68,7 +68,7 @@ const Faq = () => {
                             })
                         }
 
-                        
+
                     </div>
                 </div>
             </div>
