@@ -18,6 +18,60 @@ const Advisor = () =>{
                         <div className="team-card mb-100">
                             <div className="team-card-inner">
                                 <div className="team-thumbnail">
+                                    <img src="assets/img/teams/ryan.png" alt=""/>
+                                </div>
+                                <div className="team-content">
+                                    <span>Valuable Advisor</span>
+                                    <h3>Ryan Horn</h3>
+                                    <p>ex-Binance NFT director and Web3 visionary</p>
+                                    <div className="team-social">
+                                        {/* <a href="# "><i className="fa-brands fa-twitter"></i></a> */}
+                                        <a href=" #" target="_blank" rel="noreferrer"><i className="fa-brands fa-linkedin-in"></i></a>
+                                        {/* <a href="# "><i className="fa-brands fa-instagram"></i></a> */}
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div className="col-xl-3 col-lg-4 col-md-6">
+                        <div className="team-card mb-100">
+                            <div className="team-card-inner">
+                                <div className="team-thumbnail">
+                                    <img src="assets/img/teams/ena.png" alt=""/>
+                                </div>
+                                <div className="team-content">
+                                    <span>Marketing Consultant</span>
+                                    <h3>Ena Berbic</h3>
+                                    <p>Ex-Illuvium CMO</p>
+                                    <div className="team-social">
+                                        {/* <a href="# "><i className="fa-brands fa-twitter"></i></a> */}
+                                        <a href=" #" target="_blank" rel="noreferrer"><i className="fa-brands fa-linkedin-in"></i></a>
+                                        {/* <a href="# "><i className="fa-brands fa-instagram"></i></a> */}
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                    <div className="col-xl-3 col-lg-4 col-md-6">
+                        <div className="team-card mb-100">
+                            <div className="team-card-inner">
+                                <div className="team-thumbnail">
                                     <img src="assets/img/teams/advisor_01.png" alt="" style={{left:'20px'}}/>
                                 </div>
                                 <div className="team-content">
